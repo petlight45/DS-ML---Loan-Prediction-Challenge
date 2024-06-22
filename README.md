@@ -1,4 +1,4 @@
-# DS-ML---Urban-Air-Pollution-Challenge
+# DS-ML---Loan-Prediction-Challenge
 My solution to the load prediction challenge competition on Zindi
 
 Below is the url to the Zindi competition
