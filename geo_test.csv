@@ -1,0 +1,1488 @@
+,customerid,Country,State,LGA
+0,8a858f305c8dd672015c93b1db645db4,Nigeria,Ekiti,Ado Ekiti
+1,8a858f085a477386015a47fb049e49ca,Nigeria,Lagos,Alimosho
+2,8a858e6f5cd5e874015cd6f5634c39ad,Nigeria,Benue,Makurdi
+3,8a858e9d5bfd7037015bfdab79f61305,Nigeria,Ogun,Ifo
+4,8a858fde56eb02280156eb6dafc128ac,Nigeria,Bayelsa,Yenegoa
+5,8a858e695775665c015779a1a5cc1192,Nigeria,Ogun,Obafemi-Owode
+6,8a858e225c404292015c4e2b42c67bbe,Nigeria,Cross River,Calabar-Municipal
+7,8a858fcf5b39c3ba015b3d9f215c3922,Nigeria,Oyo,Ibadan North
+8,8a858edd5c8348c4015c8452bc364cd7,Nigeria,Ogun,Obafemi-Owode
+9,8a858ef25c8393f8015c86783932595b,Nigeria,Enugu,Enugu South
+10,8a858edc5ceea2e6015ceea77c5c0300,Nigeria,Cross River,Calabar-Municipal
+11,8a858e5856b7840c0156bb256d6e0e6a,Nigeria,Lagos,Amuwo-Odofin
+12,8a858e8b5bc9e7e6015bcd7b7ee305b9,Nigeria,Lagos,Ikorodu
+13,8a858e585693982b015698da71ca5342,Nigeria,Lagos,Ikorodu
+14,8a858e785c8d9167015c90a6e2c45e08,Nigeria,Cross River,Calabar-Municipal
+15,8a8588c2546bf759015471842d602473,Nigeria,Lagos,Ojo
+16,8a858ee45b62dadc015b660294b5292e,Nigeria,Ogun,Ifo
+17,8a858ef358d4a48e0158d50224cb12c5,Nigeria,Osun,Ife Central
+18,8a858ef85a613c85015a684e546a4e82,Nigeria,Oyo,Akinyele
+19,8a858ff257048b50015709ffa148518e,Nigeria,Benue,Makurdi
+20,8a858e9b5bcf8546015bcff969fd0f8f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+21,8a85888c548fb3d501549593ea277c88,Nigeria,Oyo,Akinyele
+22,8a858ec75c11a07a015c16a2289b4fa7,Nigeria,Lagos,Amuwo-Odofin
+23,8a858ef7597cf4c501597e2416f907aa,Nigeria,Ondo,Akure North
+24,8a858ec95afc0922015aff7d927011fb,Nigeria,Lagos,Amuwo-Odofin
+25,8a858ed75732b68101574d1614f23803,Nigeria,Lagos,Kosofe
+26,8a858ede5ca210f0015ca340de706114,Nigeria,Lagos,Eti-Osa
+27,8a858ec655f96b320156071dd95b4be0,Nigeria,Lagos,Eti-Osa
+28,8a858fa25c120898015c132919e544fc,Nigeria,Imo,Aboh-Mbaise
+29,8a858e135cb22031015cb58116983b37,Nigeria,Rivers,Bonny
+30,8a858e2d565657b101565ae54e5638c1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+31,8a858e7c588604a4015895a4d8541dea,Nigeria,Oyo,Ibadan South West
+32,8a858e395cb1d4d9015cbf8640086398,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+33,8a858eb85cef9327015cf30509cf2230,Nigeria,Lagos,Mushin
+34,8a858887545183ca015458c977db7bd2,United States,Kansas,Unknown LGA
+35,8a858f055b15b8d3015b168707084a4b,Nigeria,Kaduna,Sabon-Gari
+36,8a858ef25c8393f8015c873e2c443d27,Nigeria,Lagos,Mushin
+37,8a858e9d5bfd7037015c0dc3a27c6d93,Nigeria,Lagos,Ojo
+38,8a858fa5552add5d01554ea9435f677d,Nigeria,Enugu,Enugu North
+39,8a858f475c7ea023015c7f69842720ee,Nigeria,Lagos,Surulere
+40,8a858f9d5bd44001015bd4cd7c343311,Nigeria,Lagos,Eti-Osa
+41,8a858fd3552c756201553571d2fe62e3,Nigeria,Delta,Sapele
+42,8a858ffd5c8d343d015c8dbf49dc49d5,Nigeria,Plateau,Jos North
+43,8a858fab5cd5e1a7015cd9c3b9ae0f29,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+44,8a858ff9580b881201581e41fa95467b,Nigeria,Kwara,Ilorin West
+45,8a858ed75732b68101574cf214582d48,Nigeria,Osun,Aiyedade
+46,8a858f1e5cef1d91015cf37f17052b7b,Nigeria,Lagos,Ikeja
+47,8a858e475c127bce015c16382ae853cb,Nigeria,Ogun,Obafemi-Owode
+48,8a858f13556665aa01556d98b4ca0d1d,Nigeria,Lagos,Eti-Osa
+49,8a858f375b493337015b56c4ef7a4e0c,Nigeria,Benue,Makurdi
+50,8a858e69566ae5b801568eb3041a121a,Nigeria,Lagos,Amuwo-Odofin
+51,8a858ec95afc0922015b080cc25e41f8,Nigeria,Lagos,Eti-Osa
+52,8a858ede5ca210f0015ca32170645e53,Nigeria,Ogun,Ijebu North
+53,8a858f9d5bd44001015bd492e919247f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+54,8a85890754145ace015429f1960607e4,Nigeria,Lagos,Ikorodu
+55,8a858e345bd96da8015be6289d010075,Nigeria,Lagos,Amuwo-Odofin
+56,8a858fa057e2a0a50157f1ffa5f228a0,Nigeria,Anambra,Anaocha
+57,8a858eab5cf9c4c8015d034b5561731d,Nigeria,Edo,Esan West
+58,8a858f88578ad68901578bd0502a216a,Nigeria,Nassarawa,Akwanga
+59,8a858f065b1fe50a015b201d16f43102,Nigeria,Lagos,Eti-Osa
+60,8a858ef45be99ccb015bea1e47041821,Nigeria,Lagos,Alimosho
+61,8a858fd85507735701551173e8c225b2,Nigeria,Lagos,Amuwo-Odofin
+62,8a85896653f0fed20153f9e6f6f27315,Nigeria,Lagos,Eti-Osa
+63,8a8589045384bd830153966de1b77ab3,Nigeria,Lagos,Oshodi-Isolo
+64,8a858e735b86c5e6015b86ca110b0353,Nigeria,Lagos,Ifako-Ijaye
+65,8a858e655a047d1a015a17be58262943,Nigeria,Zamfara,Bungudu
+66,8a858fcf5591c5cf015597c298cb15d9,Nigeria,Lagos,Ikeja
+67,8a858f285b14dddb015b14f3be5e0e9f,Nigeria,Oyo,Egbeda
+68,8a858eac5ad81473015adb5e13740d62,Nigeria,Lagos,Oshodi-Isolo
+69,8a8589b953bc23f70153cf2e6d442c45,Nigeria,Rivers,Obio/Akpor
+70,8a858eb95a8f9e4c015a91f3f9dc6d7a,Nigeria,Benue,Makurdi
+71,8a858f1554e294490154e2f7ce342b18,Nigeria,Lagos,Alimosho
+72,8a858e5856b7840c0156c289b8584f4c,Nigeria,Lagos,Kosofe
+73,8a858f3b5c1c5a08015c1c6897ac062b,Nigeria,Lagos,Mushin
+74,8a85884e548fad6501549e6d40590168,Nigeria,Lagos,Surulere
+75,8a858e755c118bd7015c11bc925a17a2,Nigeria,Oyo,Akinyele
+76,8a858e5555780ea001557c358eac1a2c,Nigeria,Lagos,Alimosho
+77,8a85886e54beabf90154c3f2f2ba3e59,Nigeria,Lagos,Ifako-Ijaye
+78,8a858e885c63d379015c686565a0408f,Nigeria,Akwa Ibom,Oron
+79,8a858ee755a0c84a0155bf1b6a02583e,Nigeria,Rivers,Port-Harcourt
+80,8a858e615c832be8015c84b0c149554a,Nigeria,Osun,Ife North
+81,8a858f2c58dc6e680158dd8af7761f24,Nigeria,Lagos,Amuwo-Odofin
+82,8a858f665c45930d015c490f9e137383,Nigeria,Osun,Olorunda
+83,8a858edf57f78fed0157fdd279342ccf,Nigeria,Oyo,Ibadan North
+84,8a858fe758dc437a0159018589dc5df0,Nigeria,Oyo,Akinyele
+85,8a858f2d5853901a01585c79a6021b8f,Nigeria,Lagos,Oshodi-Isolo
+86,8a8588235375c27f015376d27f982c9e,Nigeria,Lagos,Ibeju/Lekki
+87,8a858eac5ad81473015ada3690354aac,Nigeria,Osun,Ife Central
+88,8a858f125c5f88b1015c62b300050e57,Nigeria,Lagos,Ikeja
+89,8a858fe8555f401f01556122503615c1,Nigeria,Edo,Oredo
+90,8a85893d542e18bc0154379710d6562c,Nigeria,Kaduna,Kaduna South
+91,8a858e475c127bce015c16667af86900,Nigeria,Ondo,Akure South
+92,8a858f2f54e28d530155102a418b6307,Nigeria,Lagos,Ikorodu
+93,8a858ee55cb156e6015cc0454bef7c77,Nigeria,Delta,Warri South
+94,8a858e505ad27570015ad3a536d46c46,Nigeria,Kwara,Ilorin East
+95,8a858f0056b7cf8e0156b8918d424613,Nigeria,Lagos,Ikorodu
+96,8a858e0b5cfa2028015d034211a96a52,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+97,8a858e655a047d1a015a0daaf9874735,Nigeria,Ogun,Ijebu Ode
+98,8a858e705b3a03c7015b3ceed0d531fb,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+99,8a858fde56eb02280156fb85a2521990,Nigeria,Lagos,Surulere
+100,8a858e645591c24b01559c74651d5f0e,Nigeria,Ogun,Ado-Odo/Ota
+101,8a858e6c5b5bd8ac015b5c0357581aef,Nigeria,Ogun,Abeokuta South
+102,8a858fe45a760203015a7f3dd68d6282,Nigeria,Imo,Owerri-Municipal
+103,8a858fa95c695f85015c698efbf11b7e,Nigeria,Ogun,Obafemi-Owode
+104,8a858e785c8d9167015c9c4faa701884,Nigeria,Lagos,Eti-Osa
+105,8a858e785a53f8a6015a561b1aaf1610,Nigeria,Oyo,Ibadan South West
+106,8a858ef358d4a48e0158ee3dafd51a43,Nigeria,Lagos,Eti-Osa
+107,8a85893d53e2e2f30153f00df3e33622,Nigeria,Lagos,Ifako-Ijaye
+108,8a858f045556eaa4015568356b2d414c,Nigeria,Lagos,Eti-Osa
+109,8a858f295c829b43015c82d057832585,Nigeria,Oyo,Ido
+110,8a858f6f5b3f095b015b40f2cd163744,Nigeria,Ekiti,Ado Ekiti
+111,8a858f54589736f40158a9a0f1204927,Nigeria,Delta,Oshimili South
+112,8a858e8d5d41c5fd015d45762a6400db,Nigeria,Lagos,Eti-Osa
+113,8a858eb95b3ed48c015b3f2be5056fcd,Nigeria,Kaduna,Kaduna North
+114,8a858ff35c1ada43015c1ae99d830a0b,Nigeria,Lagos,Badagry
+115,8a858ff45be92ea2015be98bc2162c96,Nigeria,Ondo,Akure South
+116,8a858f6e5cb16eb9015cc423ee197af6,Nigeria,Plateau,Jos North
+117,8a858f615591c2cc0155965e44ff3633,Nigeria,Lagos,Eti-Osa
+118,8a858e9b5bcf8546015bcfaf5b680756,Nigeria,Lagos,Ikorodu
+119,8a858ede5ca210f0015ca65c957e7a59,Nigeria,Kwara,Ilorin West
+120,8a858e875b910dfe015b9b598dfc49c5,Nigeria,Delta,Warri South
+121,8a85893d53f104eb0154054115f12c61,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+122,8a858eef5554890501556dcff6f9065f,Nigeria,Lagos,Eti-Osa
+123,8a858f40577642af01577a506291185a,Nigeria,Abia,Aba South
+124,8a85892854be331a0154c901e52e390a,Nigeria,Lagos,Kosofe
+125,8a8589a754386216015438a93cd229e8,Spain,Las Palmas,Unknown LGA
+126,8a858f9d5668e3f101566a6e9722794c,Nigeria,Osun,Ife North
+127,8a8589c253ace09b0153af6ba58f1f31,Nigeria,Lagos,Alimosho
+128,8a858ed65bd3a65c015bd3e9a0ff2664,Nigeria,Lagos,Eti-Osa
+129,8a858f0f5bfd79d2015c029412b86494,Nigeria,Rivers,Port-Harcourt
+130,8a858f00590ac4e70159170bde1b1880,Nigeria,Lagos,Alimosho
+131,8a858f8d5c82ba66015c8316bc8a3607,Nigeria,Oyo,Ibadan South West
+132,8a858f315ccb979d015ccfdb46730c21,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+133,8a858fa25a84fe3b015a852ea1d02175,Nigeria,Lagos,Surulere
+134,8a858f7958b0a4a80158b47fb32010f3,Nigeria,Niger,Edati
+135,8a858e69566ae5b801566ff083790265,Unknown Country,Unknown State,Unknown LGA
+136,8a858e4854d4be9d0154e1713f106e06,Nigeria,Lagos,Alimosho
+137,8a858e7e5c7cff8b015c7d339f151aaa,Nigeria,Kwara,Ilorin South
+138,8a858ea45bd88d04015bd89004950162,Nigeria,Lagos,Ikorodu
+139,8a858ff45be92ea2015be98c51742d1f,Nigeria,Lagos,Surulere
+140,8a858f34588713c201588c59c04b04cd,Nigeria,Lagos,Ifako-Ijaye
+141,8a858fdc5b583a67015b583f3b8a0552,Nigeria,Anambra,Nnewi North
+142,8a858e9f59d692440159da7307f4464e,Nigeria,Rivers,Obio/Akpor
+143,8a858f1554e29449015500deb58f1653,Nigeria,Federal Capital Territory,Bwari
+144,8a858eab5cf9c4c8015cfa60fae235fd,Nigeria,Lagos,Alimosho
+145,8a858e955631db4401563ca4a4b03287,Nigeria,Lagos,Oshodi-Isolo
+146,8a858e17562dc2270156312c4a755edc,Nigeria,Rivers,Port-Harcourt
+147,8a858fe35cd0edad015cd3df1c295c30,Nigeria,Oyo,Egbeda
+148,8a858f25584470aa01584da2a1db5663,Nigeria,Lagos,Eti-Osa
+149,8a858fbd5cd6054a015ce4de9d8a4c5a,Nigeria,Oyo,Akinyele
+150,8a858fd85b685607015b6cf937f232be,Nigeria,Lagos,Eti-Osa
+151,8a858e435bedeb4f015beefb8a294d30,Nigeria,Bauchi,Bauchi
+152,8a858fa25bd92c20015be50d818f1890,Nigeria,Rivers,Ahoada East
+153,8a858fb557330de10157394d041943fb,Nigeria,Bayelsa,Southern Ijaw
+154,8a858e5b5bd99460015bdf715c7c3f80,Nigeria,Ogun,Ijebu Ode
+155,8a858fc959cbd1500159cd3bbcf57a04,Nigeria,Lagos,Ikorodu
+156,8a858fa45bd95e9a015be29a6b136061,Nigeria,Plateau,Bassa
+157,8a858f725b49c0c0015b4f7c165e4827,Nigeria,Niger,Suleja
+158,8a858ee758b4c54a0158b7b47c784cda,Nigeria,Oyo,Ibadan North West
+159,8a858fd45a4260bc015a461db91a3615,Nigeria,Lagos,Shomolu
+160,8a858ee55c830000015c8307702b03dc,Nigeria,Ekiti,Oye
+161,8a858f4c5bb597f6015bc3cc1fbb7104,Nigeria,Cross River,Calabar-Municipal
+162,8a858f6055f96ad2015604e2b0530828,Nigeria,Oyo,Lagelu
+163,8a858e9156e137c6015705964f291996,Nigeria,Lagos,Alimosho
+164,8a858fa3586d20e001586d8ef15428c1,Nigeria,Lagos,Lagos Island
+165,8a858fad5bf85d5e015bfb734316090f,Nigeria,Lagos,Alimosho
+166,8a858f0d58a18ebc0158b0ec239828b8,Nigeria,Lagos,Lagos Mainland
+167,8a858e885c87dee5015c881f237f214b,Nigeria,Lagos,Amuwo-Odofin
+168,8a858ece5b0142e3015b0a3a7f183339,Nigeria,Lagos,Surulere
+169,8a858f305c8dd672015c9b6de9735c21,Benin,Ouémé Department,Sèmè-Kpodji
+170,8a858ec75bfd77c4015bfda14bd40a20,Nigeria,Lagos,Oshodi-Isolo
+171,8a858f9e5a41dfd7015a41f7b0ae1759,Nigeria,Lagos,Alimosho
+172,8a858f225b3dc49e015b3de052f52204,Nigeria,Kaduna,Sabon-Gari
+173,8a858fda5c3b0f1c015c403b1f5c301c,Nigeria,Lagos,Ikorodu
+174,8a858f985bee01cb015bf160e3ef4c1d,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+175,8a858fe95c88ee44015c8c4043291900,Nigeria,Benue,Logo
+176,8a858e645afb8f74015afbd64d8b2f9c,Nigeria,Ogun,Ado-Odo/Ota
+177,8a858f735922163501592c4f0de93a51,Nigeria,Oyo,Akinyele
+178,8a858e1158dc4d830159015170547d02,Nigeria,Ogun,Ifo
+179,8a858fc959bb192f0159bb26fbe70c82,Nigeria,Lagos,Lagos Island
+180,8a858f9f5bd99987015be23abcfc07f2,Nigeria,Niger,Bida
+181,8a858f98560bbe110156218cd2a94514,Nigeria,Lagos,Alimosho
+182,8a858e655a047d1a015a047d7ad40067,Nigeria,Lagos,Oshodi-Isolo
+183,8a858e9156e137c601570163db4358c9,Nigeria,Ondo,Akoko South West
+184,8a858eff55a090650155a13892552a0b,Nigeria,Ondo,Ose
+185,8a858e8d5d41c5fd015d421a1e762278,Nigeria,Ogun,Abeokuta South
+186,8a858e0256b781d80156c19fddb831ee,Nigeria,Lagos,Eti-Osa
+187,8a858e8e5ca1f1a8015ca6a8cfcb31f4,Nigeria,Oyo,Ibadan North West
+188,8a858f6b570f2de901572981cca506b5,Nigeria,Lagos,Ikeja
+189,8a858f6e5cb16eb9015cb56eb47d0a02,Nigeria,Oyo,Ibadan South West
+190,8a858fa55776f0470157799aa4b33da8,Nigeria,Oyo,Oyo West
+191,8a858e715bd3fa19015bd407028c0450,Nigeria,Lagos,Eti-Osa
+192,8a858e4f58b9f0b40158d31e17fc2a7e,Nigeria,Nassarawa,Toto
+193,8a858eba5b681df4015b6d5c3c7b59b3,Nigeria,Kwara,Ilorin East
+194,8a858f5b5bee1b11015bf1b4ffea5abb,Nigeria,Lagos,Ikeja
+195,8a858ef4598857710159898caf3b44f8,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+196,8a858fe8555f401f01556dbd487e78d5,Nigeria,Kaduna,Kaduna North
+197,8a858fbc5cc666c8015cc96695e50338,Nigeria,Delta,Sapele
+198,8a858ec358dc5c130158e4df91a874b9,Nigeria,Lagos,Ojo
+199,8a858ee75afc09f4015b003afc7010b1,Nigeria,Lagos,Kosofe
+200,8a85893d53f104eb015400808d86752b,Nigeria,Lagos,Ikeja
+201,8a858fc75cd62882015ce3af160470f5,Nigeria,Lagos,Shomolu
+202,8a858ffd5caca417015cacdb354a2364,Nigeria,Lagos,Eti-Osa
+203,8a858f165af6a783015af6d939671ccc,Nigeria,Federal Capital Territory,Bwari
+204,8a858f3c5c16cadb015c171ebcfb30b6,Nigeria,Rivers,Obio/Akpor
+205,8a858ee0560bc0770156196630ee2e35,Nigeria,Ogun,Ado-Odo/Ota
+206,8a858e705668e167015669c8cc67271a,Nigeria,Lagos,Surulere
+207,8a858e6059e0a7080159eaed2c724220,Nigeria,Lagos,Ojo
+208,8a858ec95afc0922015affaaf5992c1a,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+209,8a858f2f5af5d835015af5db88300242,Nigeria,Lagos,Eti-Osa
+210,8a858e245b680423015b70e6d3300586,Nigeria,Lagos,Ifako-Ijaye
+211,8a858fb4563228d201563d09846204bd,Nigeria,Lagos,Ifako-Ijaye
+212,8a858ebd5b254c8b015b2f8ebbc96477,Nigeria,Lagos,Eti-Osa
+213,8a858e705b3a03c7015b3c16c087774f,Nigeria,Lagos,Surulere
+214,8a858f305c8dd672015c970cc60d3014,Nigeria,Ebonyi,Abakaliki
+215,8a858ea8580b1fee015814d9ce7f41ec,Nigeria,Ogun,Abeokuta North
+216,8a858f905c06a9c0015c06db624d043e,Nigeria,Lagos,Ifako-Ijaye
+217,8a858f6f5b3f095b015b42c2106b08a5,Nigeria,Lagos,Mushin
+218,8a858e0156b782a10156dfbdd6a1331c,Nigeria,Delta,Okpe
+219,8a858f08582a51bc01582a7123560822,Nigeria,Ogun,Obafemi-Owode
+220,8a858ed45c454c11015c53de37e71789,Nigeria,Kwara,Ilorin West
+221,8a858f4c5bd8c7b2015bd902087b273c,Nigeria,Lagos,Agege
+222,8a858ecd5b81e1a6015b823c01ee2725,Nigeria,Lagos,Shomolu
+223,8a858ff257048b5001570c67315b660b,Nigeria,Lagos,Amuwo-Odofin
+224,8a858fab5cd5e1a7015cdbcb4ba75d93,Nigeria,Benue,Gboko
+225,8a858fb45bb59c21015bba2f3ffe197d,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+226,8a858e515b38f839015b39083e321384,Nigeria,Lagos,Ikeja
+227,8a858e8e58f6d66f015904a859fd5589,Nigeria,Lagos,Kosofe
+228,8a858e345bd96da8015be3d7c0894a31,Nigeria,Lagos,Mushin
+229,8a858e135cb22031015cbb1fe09555f4,Nigeria,Ogun,Obafemi-Owode
+230,8a858fe55b013a0b015b066bda6811b0,Nigeria,Osun,Isokan
+231,8a858f545c887b44015c889b346f1575,Nigeria,Bayelsa,Yenegoa
+232,8a858fee58d73f5f0158e3e9c6176212,Nigeria,Rivers,Obio/Akpor
+233,8a858eda552adcc201552ebf8deb74ce,Nigeria,Nassarawa,Karu
+234,8a858e135c78e673015c794a54092a97,Nigeria,Ogun,Ifo
+235,8a858f465668e3d601568dd071503445,Nigeria,Lagos,Alimosho
+236,8a858e255557edfe0155702304192a3b,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+237,8a858f0a5bf2ed17015bf34ffdf132c9,Nigeria,Lagos,Ojo
+238,8a858f525bedff8d015bef8f8f9b6e4a,Nigeria,Ogun,Obafemi-Owode
+239,8a85891e53ad0e6b0153af3918bb1d28,Nigeria,Lagos,Kosofe
+240,8a858edf55ca17ba0155d87b4f525cf9,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+241,8a858f585cf9d48b015d0a258b75758a,Nigeria,Lagos,Eti-Osa
+242,8a858e6c5c88d145015c8fa5e8122270,Nigeria,Lagos,Ikeja
+243,8a85890253e2f1180153eabcfe945ac3,Nigeria,Plateau,Jos North
+244,8a858e585693982b01569e0079561fb1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+245,8a858e2d5aebef07015aec2e96e372c8,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+246,8a858f065b1fe50a015b200b42462585,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+247,8a858e1856aa901b0156b3b683c36060,Nigeria,Lagos,Eti-Osa
+248,8a858e885b68546c015b7238f22027ba,Unknown Country,Unknown State,Unknown LGA
+249,8a858e1d5b2510b2015b2ec1e9541f3c,Nigeria,Lagos,Alimosho
+250,8a858f79588789bd015890be99777cf4,Nigeria,Imo,Owerri West
+251,8a858fd858e2f19a0158f507104665f2,Nigeria,Kwara,Ilorin West
+252,8a858fb959b6dfec0159b700765e15e7,Nigeria,Zamfara,Bungudu
+253,8a858f665c2142a0015c2cf209e20a6f,Nigeria,Delta,Warri South
+254,8a1edbf14734127f0147356fdb1b1eb2,Nigeria,Rivers,Obio/Akpor
+255,8a858ee25b874ecc015b883ecf2f38d8,Nigeria,Kano,Fagge
+256,8a858e135cb22031015cc0a1aa8e3406,Nigeria,Lagos,Shomolu
+257,8a858fb95bd896cc015bd8a775a70c54,Nigeria,Oyo,Ibadan North
+258,8a858fcd5cc5594e015cc57021210c21,Nigeria,Ondo,Ondo West
+259,8a858f0c5cef4be2015cf266791a0b01,Nigeria,Ekiti,Ado Ekiti
+260,8a858fdd54d4dd160154dd94b0107719,Nigeria,Lagos,Ikeja
+261,8a858faf56939fea01569d9c10415018,Nigeria,Ogun,Ado-Odo/Ota
+262,8a858e135cb22031015cbcf1122f779e,Nigeria,Delta,Warri South
+263,8a858e445add19b4015ae905c37c7b00,Nigeria,Edo,Oredo
+264,8a858e9b5b47ecc1015b4810b9de1ab0,Nigeria,Lagos,Alimosho
+265,8a858edb5a70bfe0015a760bb8e321a1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+266,8a858f5e5566567d015577a80b01201e,Nigeria,Oyo,Lagelu
+267,8a858e6d58b0cc520158bf39027938cf,Nigeria,Ogun,Ifo
+268,8a858f9a5b33cc48015b33d812b20d0c,Nigeria,Lagos,Oshodi-Isolo
+269,8a858e735c5a4bed015c5b4894e42483,Nigeria,Enugu,Enugu East
+270,8a858edb5bd936e4015be7eb350a0dfb,Nigeria,Ogun,Obafemi-Owode
+271,8a858f985b80ab2c015b81098b8f2c2e,Nigeria,Lagos,Ifako-Ijaye
+272,8a858e9b5a69f076015a69fd874304e1,Nigeria,Oyo,Ibadan South West
+273,8a858ed75bb64559015bc5722032662e,Nigeria,Abia,Umuahia North
+274,8a858f00590ac4e70159320caa4a190c,Nigeria,Lagos,Lagos Island
+275,8a858e6f5cd5e874015ce7931b330a91,Nigeria,Kano,Nasarawa
+276,8a858f005b396e23015b397635140a37,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+277,8a858f615b910db3015b9d5e2cb60865,Nigeria,Osun,Olorunda
+278,8a858fa459e0a1340159e4022e2a7a3c,Nigeria,Lagos,Ikeja
+279,8a858ec05a4c05f2015a4c434c7220ac,Nigeria,Lagos,Oshodi-Isolo
+280,8a8589d754be350e0154c873af647457,Nigeria,Lagos,Kosofe
+281,8a858f2b5c11cabe015c136a30940ae3,Nigeria,Ogun,Ado-Odo/Ota
+282,8a858e945bee08de015bee8f994f3026,Nigeria,Oyo,Ido
+283,8a858f935b8753e6015b87cd4412251d,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+284,8a858fc9580b91da0158173d53626619,Nigeria,Osun,Olorunda
+285,8a858fe65675195a0156766ebdb042c8,Nigeria,Oyo,Ibadan North West
+286,8a858fcf5591c5cf015596c7018348b8,Nigeria,Lagos,Eti-Osa
+287,8a8588c7541e2f4b015432ff754e0971,Nigeria,Lagos,Ikeja
+288,8a858fce5bab3591015bab6202051912,Nigeria,Lagos,Ikorodu
+289,8a858eba5591bf2801559680580a1f9e,Nigeria,Oyo,Oyo East
+290,8a858f295c8d307f015c98cd79df18f9,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+291,8a858f2756cec0a30156e76c4e6f6163,Nigeria,Edo,Ovia North East
+292,8a858f265c2187bd015c346b5bb74ea9,Nigeria,Lagos,Eti-Osa
+293,8a858e495d1e235c015d2cab67f045eb,Nigeria,Lagos,Eti-Osa
+294,8a858e935cedfe55015cee23feae1e84,Nigeria,Kaduna,Giwa
+295,8a858899538ddb8e01539eccc3c375fe,Nigeria,Ondo,Akure North
+296,8a858e9b560bbd6301561e50ee830cbd,Nigeria,Lagos,Eti-Osa
+297,8a858e015c58ee6a015c592ed3541c4a,Nigeria,Lagos,Apapa
+298,8a858ef55a46c7c8015a47574114741c,Nigeria,Kwara,Ilorin East
+299,8a858f555cacacdf015cafcc2c1c7105,Nigeria,Enugu,Awgu
+300,8a858efd5ca70688015caae5f9275628,Nigeria,Ogun,Abeokuta South
+301,8a858faf56b7821c0156cbb2b12c07a8,Nigeria,Lagos,Alimosho
+302,8a858fb1563219690156352b4da842e8,Nigeria,Lagos,Eti-Osa
+303,8a858f3d5add42e2015ae06ea7645399,Nigeria,Ogun,Ifo
+304,8a858e1a59cbf7460159cfa0e079219d,Nigeria,Lagos,Oshodi-Isolo
+305,8a858f6f57b9193a0157d194bbf90ec9,Nigeria,Rivers,Obio/Akpor
+306,8a858ec9590ad35d0159440bfe67201a,Nigeria,Oyo,Ogbomosho North
+307,8a858efb54ccb4820154cdc92e2239fc,Nigeria,Lagos,Lagos Mainland
+308,8a858f1358b9f0740158ce1285e272cc,Nigeria,Adamawa,Yola South
+309,8a858f935b8753e6015b8a360b650064,Nigeria,Lagos,Shomolu
+310,8a858ea55b58f026015b5c07521824eb,Nigeria,Rivers,Obio/Akpor
+311,8a858e6a5bfd4b54015c0c3c5d021c4c,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+312,8a858f105a4ed440015a51ffebd57187,Nigeria,Lagos,Ikeja
+313,8a858e215ca77c7f015caa601f6e5976,Nigeria,Gombe,Gombe
+314,8a85895054be35160154c36a6ba03ea0,Nigeria,Lagos,Alimosho
+315,8a858f255ca276c5015ca5dbc7b90b63,Nigeria,Kaduna,Chikun
+316,8a390a2150ad97330150aebdd8ef7456,Nigeria,Rivers,Port-Harcourt
+317,8a858e6d58b0cc520158beeb14b22a5a,Nigeria,Rivers,Port-Harcourt
+318,8a858eb35c5f4a42015c6371c0486a4d,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+319,8a858f665c45930d015c50e26935397d,Nigeria,Federal Capital Territory,Kuje
+320,8a858f78550ba10401551b5beb391078,Nigeria,Rivers,Port-Harcourt
+321,8a858f3355ae6a610155b576b37d7dbb,Nigeria,Kaduna,Chikun
+322,8a8589f35451855401545c6aab952f7d,Nigeria,Lagos,Eti-Osa
+323,8a858feb55f969560155ff2575dc44f4,Nigeria,Ogun,Obafemi-Owode
+324,8a858e2a5cc5bf8f015cc61d74712929,Nigeria,Ogun,Ado-Odo/Ota
+325,8a8588f35438fe1201543d4927a77644,Nigeria,Lagos,Oshodi-Isolo
+326,8a858f2e5876d7d0015880cff3b96d0c,Nigeria,Lagos,Alimosho
+327,8a858eab5cf9c4c8015d030ef0336efa,Nigeria,Lagos,Surulere
+328,8a858fa158f8ee8f0158ff1bb2b747e1,Nigeria,Lagos,Lagos Mainland
+329,8a85883353e2e4e40153eca57a9855c6,Nigeria,Lagos,Lagos Mainland
+330,8a858f6c570f2d6601570f4637b10cbc,Nigeria,Lagos,Ifako-Ijaye
+331,8a858fb15b34a708015b38878020108b,Nigeria,Lagos,Eti-Osa
+332,8a858f795896e56b0158a47b8be660c5,Nigeria,Ogun,Abeokuta South
+333,8a85897353d85af80153e0106e264de4,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+334,8a858e0f58afbace0158c909b63e176b,Nigeria,Ondo,Akure North
+335,8a858ef85a613c85015a65f7d2321d4f,Nigeria,Imo,Owerri West
+336,8a858e0156b782a10156bcdeedd505a3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+337,8a858e8d5c35bc85015c36001c1a1ff2,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+338,8a858efd5b39cf3d015b3cb3b3882cc7,Nigeria,Lagos,Lagos Island
+339,8a858f9c5bb503b8015bb5063bcb021e,Nigeria,Lagos,Kosofe
+340,8a858f905c06a9c0015c0d23489f2f06,Nigeria,Lagos,Oshodi-Isolo
+341,8a858f415ba54724015ba9263d3152ec,Nigeria,Oyo,Ibadan North
+342,8a858e1e54e2aa5a0154e31e842130b6,Nigeria,Lagos,Ikorodu
+343,8a858f725b49c0c0015b4efd41913c0f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+344,8a5cfa8345d40fb80145dc328532397a,Nigeria,Lagos,Ikeja
+345,8a858e445ca25ee3015ca2d9d82b2276,Nigeria,Akwa Ibom,Uyo
+346,8a858fdc5c118fd3015c11a211e108b7,Nigeria,Lagos,Ikeja
+347,8a858957536752f3015375a5f55e5eaa,Nigeria,Lagos,Alimosho
+348,8a858fcf5b39c3ba015b3c96e4a8646b,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+349,8a858e035693e029015696c50f545a8b,Nigeria,Anambra,Nnewi North
+350,8a858e955cf51403015cf88251eb3019,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+351,8a858edc554f009d015557f60de97583,Nigeria,Lagos,Kosofe
+352,8a8589b953d0be470153dc27464373c8,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+353,8a8589b953bc23f70153bcb44fc40b19,Nigeria,Enugu,Enugu North
+354,8a858fbc594a495c01595fadf4a023e6,Nigeria,Lagos,Surulere
+355,8a858fb75cc4c299015cc53618c94218,Nigeria,Kwara,Ilorin East
+356,8a858fad5ccb633e015ccbe337372ab3,Nigeria,Rivers,Obio/Akpor
+357,8a858fee58f7c77e01590774b0054bba,Nigeria,Lagos,Apapa
+358,8a858e69566ae5b801569187d18d5bba,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+359,8a858f625c5a3697015c5ac8f5e332b1,Nigeria,Bauchi,Bauchi
+360,8a8588d653a915270153ab10232e304f,Nigeria,Lagos,Ikeja
+361,8a858fdc57ab280a0157add33ef337c4,Nigeria,Plateau,Jos South
+362,8a858f365668e43901566fc8ed1c23e5,Nigeria,Lagos,Eti-Osa
+363,8a85893d53f104eb0153fec8703465f1,Nigeria,Lagos,Mushin
+364,8a858e585beda464015bf183f05c64ff,Nigeria,Plateau,Jos North
+365,8a858f5b5bee1b11015bf1f46fee071a,Nigeria,Oyo,Ibadan South West
+366,8a858ec9590ad35d01592b20868f2736,Nigeria,Lagos,Lagos Mainland
+367,8a858f1b5b9136f7015b9fe054cc67b2,Nigeria,Lagos,Ikeja
+368,8a858f5f5b39bb0c015b3b91b59c43d4,Nigeria,Lagos,Alimosho
+369,8a858e7d5b591490015b59618de419b4,Nigeria,Edo,Oredo
+370,8a858e7655072083015512a46b441f9e,Nigeria,Lagos,Ajeromi-Ifelodun
+371,8a858fca5c830943015c86ee73095c82,Nigeria,Lagos,Ikorodu
+372,8a858e1e54e2aa5a0154e2e87bf317e5,Nigeria,Rivers,Obio/Akpor
+373,8a858fa05c82907b015c82d5933a2b8a,Nigeria,Lagos,Eti-Osa
+374,8a8589ec54517bf901545877e3dc1652,Nigeria,Lagos,Eti-Osa
+375,8a858e695d1e075c015d211df3354b8e,Nigeria,Rivers,Port-Harcourt
+376,8a858ef55a46c7c8015a471ac5753f02,Nigeria,Ogun,Ijebu East
+377,8a858f855bf2f1ad015bf67271165549,Nigeria,Oyo,Ogbomosho North
+378,8a858fdd5d1844e1015d1858743b13c7,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+379,8a858fee5863a049015867c0ab2c3bc0,Nigeria,Plateau,Jos North
+380,8a8588f754a058cb0154b405217f1d65,Nigeria,Cross River,Calabar-Municipal
+381,8a858f0a5bf3716c015bf60d479e6efd,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+382,8a858ff05d128e7c015d12a0962e0c8d,Nigeria,Federal Capital Territory,Bwari
+383,8a858fcb5c11f481015c16739d933978,Nigeria,Lagos,Ikeja
+384,8a858f1c5ca1e2f9015ca231612f359e,Nigeria,Ondo,Akure South
+385,8a858e785c8d9167015c9b7982962ea1,Nigeria,Lagos,Alimosho
+386,8a858e4e5b66d372015b66db5e88070c,Nigeria,Lagos,Lagos Mainland
+387,8a858fa154e2912f0154ee239b0857f0,Nigeria,Kaduna,Chikun
+388,8a858f3a58a6d6720158aa1561f233c0,Nigeria,Ondo,Akoko South West
+389,8a858f435ad25c25015ad29e0ad52b72,Nigeria,Lagos,Eti-Osa
+390,8a858eee5872716901587644c4391794,Nigeria,Delta,Uvwie
+391,8a858f7a5ca22d3c015ca282b1ac2e08,Nigeria,Ogun,Shagamu
+392,8a858e575bf80f73015bf94be93b55ce,Nigeria,Oyo,Ido
+393,8a858eba5c884d2a015c9795b92e7801,Nigeria,Oyo,Ogbomosho North
+394,8a858ed55c63db54015c6e0859c72f24,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+395,8a858f7d5cf9aef9015cfdca34b13c79,Nigeria,Ekiti,Ado Ekiti
+396,8a858ef85cf9e152015d04fcfbc31f17,Nigeria,Niger,Tafa
+397,8a858fe8555f401f015572a171e745ed,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+398,8a858f055c831d5b015c8494b1046178,Nigeria,Federal Capital Territory,Bwari
+399,8a858e0256b781d80156bb503f2d71d7,Nigeria,Rivers,Obio/Akpor
+400,8a858fe5569398920156986fc0337f88,Nigeria,Lagos,Kosofe
+401,8a858f775c35b709015c38f9bf933a2e,Nigeria,Kogi,Ofu
+402,8a858e875cfa37f5015cfce9bc3a3abb,Nigeria,Oyo,Akinyele
+403,8a858e245c214660015c31e74aff1f94,Nigeria,Ogun,Abeokuta South
+404,8a858e445cd56553015cd93e66b47d16,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+405,8a858fdc57ab280a0157b277e9ff6d53,Nigeria,Osun,Ife North
+406,8a858ec65cc6352b015cc9e4d1a71bf1,Nigeria,Lagos,Ikeja
+407,8a858ee45a22cbec015a23631b0c46cf,Nigeria,Kwara,Ilorin East
+408,8a858f2c5ca72bae015ca788ffeb3aa3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+409,8a858ff35c63d750015c6939de7f2388,Nigeria,Lagos,Ifako-Ijaye
+410,8a858e5856b7840c0156c183c7966a3a,Nigeria,Lagos,Alimosho
+411,8a858ee25ceeabba015ceec74ea50f9a,Nigeria,Oyo,Ibadan North West
+412,8a858e8455f96c1c0155f9d5ae7e0d97,Nigeria,Oyo,Lagelu
+413,8a858eb456e0b9490157008699270938,Nigeria,Benue,Makurdi
+414,8a858ebd590802ef01590e00992f511e,Nigeria,Lagos,Kosofe
+415,8a858e405c7d6d65015c7da263c017a1,Nigeria,Lagos,Eti-Osa
+416,8a858f615591c2cc01559c6b1ae9699d,Nigeria,Oyo,Ibadan South West
+417,8a85896653e0641c0153e12519674d02,Nigeria,Lagos,Ifako-Ijaye
+418,8a8589045384bd83015399ab579042b9,Nigeria,Lagos,Ibeju/Lekki
+419,8a858ec05a9535db015a9b7e03650141,Nigeria,Lagos,Alimosho
+420,8a858f6e5b1a4fd0015b1a555f54042b,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+421,8a858f795896e56b0158ac9d15f36f1a,Nigeria,Osun,Ife Central
+422,8a858e235bd971a4015bda37fb3d2ef6,Nigeria,Lagos,Mushin
+423,8a858fee5c795f65015c79b29a141935,Nigeria,Ondo,Okitipupa
+424,8a858e7b55deef140155e4ec2be045e7,Nigeria,Lagos,Lagos Island
+425,8a858e045cd5b1d6015cd5e4a7971699,Nigeria,Lagos,Eti-Osa
+426,8a858f975c4582c4015c5659e2d36fce,Nigeria,Lagos,Oshodi-Isolo
+427,8a858fa7590af88501591230cd1c34b0,Nigeria,Delta,Uvwie
+428,8a858f8b5b630942015b6387bae751b2,Nigeria,Lagos,Alimosho
+429,8a85889b53acd0a20153b21f8fc43a12,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+430,8a8589b0541e21e401541ec02e000ec4,Nigeria,Ogun,Abeokuta South
+431,8a858e3e5922ba4301593bdd879f6f02,Nigeria,Lagos,Amuwo-Odofin
+432,8a858eac5b3ece95015b3f32ac426a41,Nigeria,Kaduna,Kaduna South
+433,8a858ea059cb30e40159cbb939584b95,Nigeria,Lagos,Eti-Osa
+434,8a858e255b910db1015ba0f65f8e3b69,Nigeria,Lagos,Alimosho
+435,8a858ef957365d52015751a2082e3103,Nigeria,Lagos,Kosofe
+436,8a858f165c1c22df015c20a6b4162cc3,Nigeria,Lagos,Apapa
+437,8a858fc55a85c4fc015a88ddb3041731,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+438,8a858fec5b5c994b015b5cba37c61d51,Nigeria,Lagos,Eti-Osa
+439,8a85881053bc33670153c7a0e6ee582e,Nigeria,Lagos,Shomolu
+440,8a858966538deb190153a81904df118e,Nigeria,Lagos,Eti-Osa
+441,8a858ee05a6b7d75015a6f9509d049af,Nigeria,Lagos,Eti-Osa
+442,8a858e6f5bce1023015bce19dbbf038d,Nigeria,Federal Capital Territory,Bwari
+443,8a858f925d5bfd0a015d5c41ca480d60,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+444,8a8588dc5384a05f01539af1485135ae,Nigeria,Lagos,Ikeja
+445,8a858e8d56b784480156c5f1019357de,Nigeria,Osun,Ilesha East
+446,8a85893d53f104eb01540e7f589775c3,Nigeria,Lagos,Kosofe
+447,8a858f105b433879015b43452276104f,Nigeria,Lagos,Kosofe
+448,8a858e445cd56553015ce5feaf637ede,Nigeria,Delta,Warri South
+449,8a858e0f5577f579015581d14503059f,Nigeria,Ogun,Ado-Odo/Ota
+450,8a8589045384bd83015384deb3ee0e13,Nigeria,Lagos,Mushin
+451,8a858e685c217d36015c27c78514225b,Nigeria,Ogun,Abeokuta South
+452,8a858fee5c795f65015c7c0400af693c,Nigeria,Lagos,Kosofe
+453,8a858e045b495c30015b5317021320fa,Nigeria,Kaduna,Chikun
+454,8a858ed25bf83782015bfb7756f4006e,Nigeria,Lagos,Oshodi-Isolo
+455,8a858eb95b3ed48c015b4034cc273ab2,Nigeria,Lagos,Ojo
+456,8a858fa95b631878015b6401c15973f3,Nigeria,Lagos,Lagos Mainland
+457,8a858ee55cb156e6015cbf58b7d50810,Nigeria,Lagos,Eti-Osa
+458,8a8588fd53c244bc0153c8251f132fd7,Nigeria,Lagos,Mushin
+459,8a858f1554e29449015500bf86eb0ecd,Nigeria,Ogun,Ifo
+460,8a858e3c58537338015864369edf2b32,Nigeria,Oyo,Ibadan North West
+461,8a858e935cd522f5015cd52dfd3f0936,Nigeria,Lagos,Kosofe
+462,8a2ac4745091002b0150a144bcbe58b7,Nigeria,Kano,Nasarawa
+463,8a8588fd53e2e6cf0153ec45be7c1613,Nigeria,Lagos,Lagos Mainland
+464,8a858fcc5cf4a563015cf569a33249a9,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+465,8a858e0d58625b41015862eadbe32d73,Nigeria,Ogun,Ifo
+466,8a858eaa55a0b8ae0155ca0b3ad43640,Nigeria,Lagos,Ikorodu
+467,8a858eb554d4ccaf0154dcf634184f6e,Nigeria,Edo,Oredo
+468,8a858ef45bcf0c76015bd27a6eed6adc,Nigeria,Lagos,Oshodi-Isolo
+469,8a858ef258d4a48b0158e9fb404a4f72,Nigeria,Lagos,Shomolu
+470,8a858e3654e2a824015500c98d76622f,Nigeria,Kano,Nasarawa
+471,8a85893d53f104eb01540f07d008224d,Nigeria,Ogun,Abeokuta South
+472,8a858e7c587f3319015882b4fa1a157a,Nigeria,Ogun,Ijebu North
+473,8a858e045cd5b1d6015ce312a2775743,Nigeria,Lagos,Ikeja
+474,8a858f875cedcb03015cedea256e1bd5,Nigeria,Delta,Warri South West
+475,8a858f0a56ffda56015709b8507a0abb,Nigeria,Kano,Dawakin Tofa
+476,8a858f055b15b8d3015b164758eb3a24,Nigeria,Oyo,Ido
+477,8a858fc15b68ba6a015b7364beb20e51,Nigeria,Lagos,Ikorodu
+478,8a858e3a54e33702015525824932748f,Nigeria,Ogun,Ijebu Ode
+479,8a8588fd53e2e6cf0153ec3302de1278,Nigeria,Lagos,Mushin
+480,8a858efb54ccb4820154cd9bf5382fba,Nigeria,Lagos,Ifako-Ijaye
+481,8a858fa4552add9f01553e7f443c4214,Saudi Arabia,Makkah,Makka
+482,8a858f185b42f6f1015b4304bd7a0bfa,Nigeria,Lagos,Alimosho
+483,8a858e165cf9d8e3015cfffb0c61459f,Nigeria,Delta,Oshimili South
+484,8a858e9059ff9e79015a0246bf7c4f02,Nigeria,Lagos,Lagos Mainland
+485,8a858e645654fdc401565f15ee130fde,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+486,8a8589f853f100fb015410f0ae5738e2,Nigeria,Adamawa,Yola South
+487,8a85882653bc51f50153c1b4a0127f64,Nigeria,Enugu,Udi
+488,8a858f725b49c0c0015b520763bc7ee4,Nigeria,Enugu,Enugu East
+489,8a858eec5aaf010c015ab23a55167a3a,Nigeria,Kogi,Lokoja
+490,8a858eda5c8863ff015c8a0c1f1f528a,Nigeria,Rivers,Obio/Akpor
+491,8a858f735c161bda015c164752961cc9,Nigeria,Lagos,Shomolu
+492,8a858e6b5ccb6ea8015ccf29e82b1b24,Nigeria,Lagos,Alimosho
+493,8a858f2b5998268e01599c8bf5897815,Nigeria,Lagos,Eti-Osa
+494,8a858e5b5ca767e1015ca810b22e2d3e,Nigeria,Ogun,Ado-Odo/Ota
+495,8a8589595384a853015395639a276821,Nigeria,Benue,Makurdi
+496,8a858f335c8d9723015c9706f48f4116,Nigeria,Ogun,Abeokuta South
+497,8a8588b75438f49901544510041e0951,Unknown Country,Unknown State,Unknown LGA
+498,8a8588fd53f1099e0154046cf0b95f16,Nigeria,Lagos,Kosofe
+499,8a858f4f5511dca201552520822d5721,Nigeria,Ekiti,Ado Ekiti
+500,8a858f5e5cb23c77015cbff5e90f24da,Nigeria,Lagos,Mushin
+501,8a858e885b68546c015b70bc09dd7ad1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+502,8a8588b75438f49901544510041e0951,Unknown Country,Unknown State,Unknown LGA
+503,8a85892e5425ad2001542d2827756546,Nigeria,Lagos,Lagos Island
+504,8a858f375b493337015b4db76b0752cd,Nigeria,Anambra,Ayamelum
+505,8a858f5b5a4d538e015a501ba52552ea,Nigeria,Ogun,Obafemi-Owode
+506,8a858faa56dffac60156e220912a0f6d,Nigeria,Lagos,Surulere
+507,8a858e625c8d993a015c9334d1f96fba,Nigeria,Lagos,Alimosho
+508,8a858f295c8d307f015c9d627df260c1,Nigeria,Lagos,Epe
+509,8a858f5e5566567d01557540adc15a20,Nigeria,Lagos,Oshodi-Isolo
+510,8a858fa05c82907b015c82bc5d911e17,Nigeria,Oyo,Ibadan South West
+511,8a858e9156e137c60156e5e9f9d85b38,Nigeria,Lagos,Kosofe
+512,8a858fab5cd5e1a7015cde28b9f37db3,Nigeria,Bayelsa,Yenegoa
+513,8a858fcf5b39c3ba015b3d6d077c4383,Nigeria,Osun,Ife Central
+514,8a858f495a7fafc1015a800d307d4d03,Nigeria,Ondo,Akure North
+515,8a858e0059416900015959ea8c801312,Nigeria,Ogun,Ado-Odo/Ota
+516,8a858fcb5ca240f7015ca66d5be72ba4,Nigeria,Osun,Egbedore
+517,8a858f625c5a3697015c5e1307347932,Nigeria,Lagos,Agege
+518,8a858e5b5bd99460015bdf2c189d392a,Nigeria,Oyo,Ibadan North
+519,8a8588d653a43f600153a832f1516034,Nigeria,Lagos,Alimosho
+520,8a858e3d570f30bb0157187594143f8f,Nigeria,Kwara,Ilorin East
+521,8a858e445d31e47a015d3213da101e6e,Nigeria,Lagos,Ikeja
+522,8a858fdf5bf85f71015bf90560683095,Nigeria,Enugu,Enugu North
+523,8a858e1d5c5a460c015c5e52353154e3,Nigeria,Lagos,Oshodi-Isolo
+524,8a858fe45cd62cbf015cdfb7b59f05f4,Nigeria,Rivers,Obio/Akpor
+525,8a858ffa55ca72a50155de6808cd2f3f,Nigeria,Lagos,Kosofe
+526,8a858e885b68546c015b7ea654f32b1d,Nigeria,Nassarawa,Lafia
+527,8a858f105a4ed440015a5ba5ab1f3ca0,Nigeria,Lagos,Ikeja
+528,8a858ee45b39aa80015b3d8b581e6281,Nigeria,Lagos,Eti-Osa
+529,8a858fc15b68ba6a015b7fa8a4f61664,Nigeria,Lagos,Ikorodu
+530,8a858f61560bc0e501561e222be3280d,Nigeria,Kwara,Ilorin South
+531,8a858ec45577f83e01557f8138b426a2,Nigeria,Lagos,Ikorodu
+532,8a858f465668e3d601566ad583100ef5,Nigeria,Oyo,Ibadan North
+533,8a858ee9587f44aa01588138339b0769,Nigeria,Niger,Chanchaga
+534,8a858f2c585375f00158688cf76b3db7,Nigeria,Lagos,Apapa
+535,8a858ee25b874ecc015b88b064453ef7,Nigeria,Lagos,Eti-Osa
+536,8a85888c54be35040154c6000efd4066,Nigeria,Plateau,Jos South
+537,8a858e5e57adcb8e0157b5023bf2676e,Nigeria,Lagos,Mushin
+538,8a858e655a047d1a015a12bb060936ff,Nigeria,Lagos,Oshodi-Isolo
+539,8a858fd85b685607015b7d3304aa2ff4,Nigeria,Akwa Ibom,Uyo
+540,8a858ff8582fcb8601583ef69ee437b2,Nigeria,Lagos,Surulere
+541,8a858e345bd96da8015bd9def9c624f6,Nigeria,Lagos,Eti-Osa
+542,8a858f5f55f9698c0156004d35076ede,Nigeria,Kebbi,Zuru
+543,8a858f755af1caee015af206036c172c,Nigeria,Lagos,Surulere
+544,8a858959537a097401537f0fb3eb6abe,Nigeria,Lagos,Alimosho
+545,8a858f595ccb6f86015cce7333856062,Nigeria,Lagos,Alimosho
+546,8a858e005c2154c2015c25ecd0760ca2,Nigeria,Benue,Makurdi
+547,8a858eba5b681df4015b7ff8ae967c76,Nigeria,Lagos,Ikeja
+548,8a858f725d65fce6015d6f5cb1342d7c,Nigeria,Lagos,Amuwo-Odofin
+549,8a858eb75c21a2b9015c2b5a48ba4a1e,Nigeria,Lagos,Alimosho
+550,8a858f375b493337015b494169b00e07,Nigeria,Lagos,Agege
+551,8a858e3957d7ca4e0157dd41757b30dd,Nigeria,Lagos,Shomolu
+552,8a858f565b683b56015b68bf1d44335d,Nigeria,Oyo,Ona-Ara
+553,8a858e875c63d395015c72a2984d79c5,Nigeria,Lagos,Ikorodu
+554,8a858e205bcee61c015bcf7dfcf3355b,Nigeria,Lagos,Ajeromi-Ifelodun
+555,8a858e0c552ae0b8015543cb7d1a5cbd,Nigeria,Lagos,Ikorodu
+556,8a85893d53e2e2f30153efcc6da71f5f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+557,8a858f61560bc0e501561c4c492609ef,Nigeria,Lagos,Amuwo-Odofin
+558,8a858fe756939bbb0156b1159291111a,Nigeria,Ogun,Abeokuta South
+559,8a858f255cb1710a015cbb5a301a4768,Nigeria,Kaduna,Chikun
+560,8a858e045b495c30015b54075ab043e5,Nigeria,Lagos,Ikeja
+561,8a858e6f5cd5e874015ce084c86e2a87,Nigeria,Lagos,Kosofe
+562,8a858f685b5dadef015b5daef51a007e,Nigeria,Anambra,Awka North
+563,8a858e16562dbf18015631258ed16411,Nigeria,Ogun,Odogbolu
+564,8a858f60560bc43d01561c8fb7ea6af5,Nigeria,Abia,Aba South
+565,8a858e105bd92644015bda5890b251e6,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+566,8a858ef45be99ccb015bebccaa063f88,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+567,8a858fab5b9105dc015b9e2f0f40784b,Nigeria,Enugu,Nkanu West
+568,8a85886f54517ee001546a2717571d36,Nigeria,Lagos,Ikeja
+569,8a858f465668e3d6015674d9567a2c56,Nigeria,Bauchi,Bauchi
+570,8a858ef25cd0c652015cd2107ef43653,Nigeria,Lagos,Eti-Osa
+571,8a858f5659bc0eea0159c14345343398,Nigeria,Federal Capital Territory,Bwari
+572,8a8589c253ace09b0153bdb04bbc192f,Nigeria,Delta,Oshimili South
+573,8a858e215ca77c7f015cab1db72d2b63,Nigeria,Lagos,Lagos Mainland
+574,8a858ea35d2d2f62015d303436a80590,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+575,8a858ec6560bc09801561cbec2c77a45,Nigeria,Osun,Olorunda
+576,8aab10f748cf78ff0148d11fac1447a6,Nigeria,Lagos,Ifako-Ijaye
+577,8a858fe45a760203015a79d74d461d88,Nigeria,Ogun,Abeokuta South
+578,8a858eba5c884d2a015c9528bd4f239b,Nigeria,Osun,Orolu
+579,8a858f085cf4e173015cf7d609e2007a,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+580,8a858e705cb15527015cbfa1139f5368,Nigeria,Lagos,Eti-Osa
+581,8a858e675c3fe0a1015c52ff728c13e3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+582,8a858f555cacacdf015cb0d734197a92,Nigeria,Lagos,Shomolu
+583,8a858f565b683b56015b800206d93f22,Nigeria,Lagos,Ibeju/Lekki
+584,8a8589595384a85301538ab9e183018a,Nigeria,Ogun,Ifo
+585,8a858e225a1e98ab015a1f5c431d33b4,Nigeria,Lagos,Amuwo-Odofin
+586,8a8589b953bc23f70153c60c56b21c00,Nigeria,Lagos,Eti-Osa
+587,8a858f1a5b66e6d6015b66ebd451051b,Nigeria,Lagos,Eti-Osa
+588,8a858f5856373f8801564d08bbbf26f4,Nigeria,Plateau,Jos North
+589,8a8589af547ff51b015485b51dfa66b3,Nigeria,Ogun,Odeda
+590,8a858fbd5cd6054a015ce61d008912a3,Nigeria,Lagos,Alimosho
+591,8a858fc65c7e0e55015c7e18140c0551,Nigeria,Kaduna,Chikun
+592,8a858e5357c8273b0157cf6403254f68,Nigeria,Sokoto,Sokoto South
+593,8a858fc45c21da6f015c33c76537691b,Nigeria,Adamawa,Numan
+594,8a858eed5a476a3c015a47967d2e18f3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+595,8a858e9d5bfd7037015c07cdd6f1278d,Nigeria,Lagos,Eti-Osa
+596,8a858f9a5c885f42015c8d0b01a33781,Nigeria,Oyo,Ibadan South West
+597,8a858fb45bb59c21015bc44544c91e59,Nigeria,Bayelsa,Yenegoa
+598,8a858e725c360240015c3710db1f3e44,Nigeria,Lagos,Surulere
+599,8a858e79568ec7de0156931b1c6d3ab0,Nigeria,Kwara,Ilorin East
+600,8a858f065b1fe50a015b20ca1b6776de,Nigeria,Lagos,Oshodi-Isolo
+601,8a858f335cea21f8015ceda4e4cd5776,Nigeria,Lagos,Oshodi-Isolo
+602,8a858e6656322b0f01564b5e36130b95,Nigeria,Ogun,Shagamu
+603,8a858edf594a45ed01597ad745966db1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+604,8a858eea5d1d99d3015d21a1ab3c17ff,Nigeria,Lagos,Ikeja
+605,8a858f1e5cef1d91015cef5030131bfd,Nigeria,Lagos,Alimosho
+606,8a858fc55b2fde30015b32b1b8a7763c,Nigeria,Federal Capital Territory,Gwagwalada
+607,8a858fa35871618e0158775c47d17113,Nigeria,Edo,Owan West
+608,8a858ffd5b391849015b392ab12c145c,Nigeria,Lagos,Alimosho
+609,8a858fd05bfd7d3c015c0c8b72ce4682,Nigeria,Bayelsa,Yenegoa
+610,8a688b474ed5e088014ed8b6c50c5f51,Nigeria,Lagos,Ifako-Ijaye
+611,8a858ffa55ca72a50155d49947914143,Nigeria,Ogun,Abeokuta South
+612,8a85888c54be35040154c75baed346d0,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+613,8a858eb858b1a6d20158b90ccf8a1298,Nigeria,Osun,Olorunda
+614,8a858ece5c88b58b015c8cc6fb1660ac,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+615,8a858f065b1fe50a015b20ecfb9c00b0,Nigeria,Edo,Egor
+616,8a858ee0564adc5001565b13d2465aea,Nigeria,Lagos,Ikorodu
+617,8a8588dc5384a05f0153a3e02aa271a9,Nigeria,Lagos,Ifako-Ijaye
+618,8a858e255557edfe015573404b8a167f,Nigeria,Lagos,Ikeja
+619,8a858e345bd96da8015be74e2d845157,Nigeria,Ogun,Ifo
+620,8a858f0d5a859ac0015a868626a85d8c,Nigeria,Benue,Makurdi
+621,8a858ebd5b254c8b015b30e464503bb2,Nigeria,Ogun,Abeokuta South
+622,8a858eba5591bf2801559684235d225f,Nigeria,Lagos,Ikeja
+623,8a858f2c58dc6e680158df6c91293adc,Nigeria,Ogun,Ifo
+624,8a858e3e5922ba430159604e0bc87433,Nigeria,Ogun,Shagamu
+625,8a858e535bab293b015bb3adfe690ad4,Nigeria,Imo,Owerri North
+626,8a858fa25bd92c20015be6644ca22cff,Nigeria,Ogun,Shagamu
+627,8a858f975c4582c4015c54619e9b7e2b,Nigeria,Oyo,Akinyele
+628,8a858e795b204ffc015b20a20c631a0f,Nigeria,Lagos,Eti-Osa
+629,8a858e045cd5b1d6015cdb5446b34af8,Nigeria,Enugu,Enugu South
+630,8a858f445d41ebbe015d4d646b946dec,Nigeria,Ogun,Ado-Odo/Ota
+631,8a858fba570ca86401570e9e31230e2e,Nigeria,Lagos,Alimosho
+632,8a858f515d3c8b43015d3d75e17056ac,Nigeria,Plateau,Jos North
+633,8a858fc65c7e0e55015c7f8126b8672a,Nigeria,Lagos,Surulere
+634,8a858e8f5d41c974015d4529ae0f1220,Nigeria,Oyo,Ona-Ara
+635,8a858f055b15b8d3015b16aac9694e88,Nigeria,Nassarawa,Akwanga
+636,8a858f7e5c213ef4015c25e43b891f67,Nigeria,Rivers,Port-Harcourt
+637,8a858e1c56dfea870156e1cca79f084d,Nigeria,Lagos,Ikorodu
+638,8a858f1f5c59cd91015c5e2eca1f1a04,Nigeria,Kwara,Ilorin South
+639,8a858ff25c88461c015c885b45fb0b28,Nigeria,Ekiti,Ikere
+640,8a858e4b5a94ae68015aa2b2bc5941b4,Nigeria,Lagos,Ikeja
+641,8a858eb65c3b3074015c441b25e37f6e,Nigeria,Ogun,Ifo
+642,8a858e4357be1daf0157bebb3c4c6fa3,Nigeria,Ogun,Ijebu Ode
+643,8a858faf5679a838015679c459720d76,Nigeria,Delta,Ughelli South
+644,8a858fd95b58cd70015b58e4ae861097,Nigeria,Lagos,Eti-Osa
+645,8a858fbd59acee6a0159adcc397f059a,Nigeria,Lagos,Mushin
+646,8a858faf5679a83801568bbe45ff3d3d,Nigeria,Lagos,Ikeja
+647,8a858ea4582fcdc801583359de3754df,Nigeria,Plateau,Jos North
+648,8a858f115cea8545015cee54a7486425,Nigeria,Federal Capital Territory,Bwari
+649,8a858e395cb1d4d9015cb4935f513aae,Nigeria,Kaduna,Kaduna North
+650,8a8589a453bc422d0153d05a844b6792,Nigeria,Osun,Ife Central
+651,8a858fc65cf978f4015cf98b8cc20d68,Nigeria,Oyo,Ibadan South East
+652,8a858fad5bf85d5e015bf8a88d381dd3,Nigeria,Lagos,Ikorodu
+653,8a858e44573d4b37015750d2bd534777,Nigeria,Lagos,Ajeromi-Ifelodun
+654,8a85893d53f104eb01540e4ca76369ad,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+655,8a8589045384bd8301538f539eb13617,Nigeria,Sokoto,Wamako
+656,8a858ee55cb156e6015cc16bd9852bb8,Nigeria,Oyo,Ibadan South West
+657,8a858f265c2187bd015c298ca7e642cc,Nigeria,Oyo,Ibadan South West
+658,8a858f60560bc43d01560f01835b4a41,Nigeria,Ogun,Abeokuta South
+659,8a858e255557edfe01555f78e7df06dd,Nigeria,Edo,Oredo
+660,8a858efd5ca70688015ca7128fa305bd,Nigeria,Ogun,Ado-Odo/Ota
+661,8a858f2f54e28d530154f1ba3a8f37c9,Nigeria,Ogun,Ado-Odo/Ota
+662,8a858f415686c0ab0156932bc72861e0,Nigeria,Lagos,Kosofe
+663,8a858fec5bd3dede015bd4099d5f1c53,Nigeria,Oyo,Ibadan North West
+664,8a858e7e5b159af5015b16e181485f15,Nigeria,Ekiti,Ado Ekiti
+665,8a858f735aec46c4015aece4cfa14726,Nigeria,Lagos,Shomolu
+666,8a858e0a5a85cfaa015a85f21a5e0bea,Nigeria,Oyo,Ibadan North West
+667,8a858e585693982b01569ad52d7b1498,Nigeria,Kwara,Ilorin West
+668,8a858e4f5929c3df01595086e6cd773f,Nigeria,Bayelsa,Yenegoa
+669,8a858edf5c69a538015c78ef1f506bd2,Nigeria,Ogun,Abeokuta South
+670,8a858fb45b58ee3b015b5974123a35b9,Nigeria,Plateau,Jos North
+671,8a858f255cb1710a015cc4e5d1cf69b5,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+672,8a858e8455f82b560155f960fac10f68,Nigeria,Lagos,Alimosho
+673,8a858ed25bf83782015bfb706c897db3,Nigeria,Lagos,Ikorodu
+674,8a858fa95c695f85015c7806a0387faa,Nigeria,Lagos,Shomolu
+675,8a858e0d5aa8e240015aa8fb5bc5165f,Nigeria,Lagos,Kosofe
+676,8a858fe95c88ee44015c8b93b7164cd4,Nigeria,Ogun,Odogbolu
+677,8a858e495d1e235c015d2bcddad44cd9,Nigeria,Benue,Buruku
+678,8a858fb45bb59c21015bbb7beff83c2d,Nigeria,Ondo,Ondo West
+679,8a858ec95afc0922015aff4399e77a12,Nigeria,Lagos,Ikeja
+680,8a858f7e5c69a6e3015c69b6aba2072e,Nigeria,Bayelsa,Yenegoa
+681,8a8588fd53c244bc0153c6628bb40fe5,Nigeria,Lagos,Alimosho
+682,8a858f9d5a4ceb8f015a4d4dd6f0284e,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+683,8a8589f853f100fb01540a6faacb4e74,Nigeria,Gombe,Kaltungo
+684,8a858e5e57adcb8e0157ae03888418ff,Nigeria,Niger,Bosso
+685,8a858f405d13c45f015d1407060e316e,Nigeria,Kwara,Ilorin East
+686,8a85891e53ad0e6b0153bde2fece1bef,Nigeria,Ogun,Ifo
+687,8a858e0f5c45466f015c518a7d2e5bbe,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+688,8a858e965b5e1b91015b60d410a170e9,Nigeria,Oyo,Ibadan South West
+689,8a858fd25a1dc72f015a1dcba1230448,Nigeria,Rivers,Port-Harcourt
+690,8a858e4a5cac6f81015cae46ed034497,Nigeria,Lagos,Ikorodu
+691,8a858eb45c11f9e4015c155381857c47,Nigeria,Lagos,Lagos Mainland
+692,8a858f6f57d2acb50157dca4f81540e2,Nigeria,Lagos,Ikeja
+693,8a858e79568ec7de01568f358c252096,Nigeria,Borno,Maiduguri
+694,8a858f0f5d1df2ad015d219c38c87827,Nigeria,Akwa Ibom,Uyo
+695,8a858ee75afc09f4015b01127fe924ad,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+696,8a858f3455a0d8070155a1276c4e1799,Nigeria,Kaduna,Sabon-Gari
+697,8a858e225a28c713015a30db5c48383d,Nigeria,Sokoto,Sokoto North
+698,8a858fe55656a93801565ad4976f225f,Nigeria,Delta,Ughelli North
+699,8a858e6359a764180159a89577a06015,Nigeria,Oyo,Egbeda
+700,8a85880353acff880153b4d9bf104630,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+701,8a858f385b866e4f015b86abb1173999,Nigeria,Ogun,Ifo
+702,8a858f625b43c0a1015b43e9175e3c65,Nigeria,Akwa Ibom,Ibesikpo Asutan
+703,8a858899538ddb8e01539cefcf160450,Nigeria,Ondo,Akure South
+704,8a8589f853f100fb0153fae1900a7f58,Nigeria,Edo,Oredo
+705,8a858e235bd971a4015bd984429906d5,Nigeria,Lagos,Alimosho
+706,8a858e6455828e710155842b4ffa280e,Nigeria,Ondo,Owo
+707,8a858e3e5b3ee747015b3fd9dd5a1bd5,Nigeria,Ogun,Ado-Odo/Ota
+708,8a858e3559080830015923412dd84294,Nigeria,Niger,Chanchaga
+709,8a858e945bfdb9e7015c0cbdf40d05b6,Antarctica,Unknown State,Unknown LGA
+710,8a858fd55b8752ba015b895180e74ffe,Nigeria,Edo,Egor
+711,8a858fd05bfd7d3c015c0d4d46cc16dc,Nigeria,Lagos,Ikeja
+712,8a858fa25bd92c20015bda335e175efb,Nigeria,Lagos,Shomolu
+713,8a858ff45be92ea2015be968b94e1872,Nigeria,Edo,Oredo
+714,8a858e1e5a1e6835015a22bbbeca0b24,Nigeria,Kaduna,Kaduna North
+715,8a858f985bee01cb015bf16ec19f5383,Nigeria,Rivers,Obio/Akpor
+716,8a858fbc5cc666c8015cc9d453ef2af3,Nigeria,Kano,Kumbotso
+717,8a858f9d5668e3f1015674c7847e34a0,Nigeria,Lagos,Kosofe
+718,8a858ed35cd57328015cd582fc530a4a,Nigeria,Ogun,Odeda
+719,8a858e3f5b5cecb6015b5d16a740279e,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+720,8a858f8e5b8c34d3015b8e76dac7657b,Nigeria,Rivers,Oyigbo
+721,8a858f3c5c16cadb015c1a134d3c0c7a,Nigeria,Edo,Ovia North East
+722,8a858f1b5b9136f7015b9f4034a8207d,Nigeria,Ondo,Akure North
+723,8a858f9c5a4817be015a486238ca1a96,Nigeria,Niger,Chanchaga
+724,8a858f375cef1cbc015cef217cd302fe,Nigeria,Lagos,Ibeju/Lekki
+725,8a858f275c451af5015c50cf80457196,Nigeria,Lagos,Alimosho
+726,8a858fe35b8ba108015b8ba23e8e0143,Nigeria,Lagos,Ikeja
+727,8a858f925bec9b74015beceb8bf13a0a,Nigeria,Lagos,Apapa
+728,8a858f2656e154de0156f197d9a64b2e,Nigeria,Lagos,Shomolu
+729,8a85881053bc33670153c0ff6d6a38b9,Nigeria,Lagos,Oshodi-Isolo
+730,8a858f8c5ca0e7fe015ca0e9889a0146,Nigeria,Osun,Osogbo
+731,8a8589ac53a4303e0153a8d2389f2bc2,Nigeria,Ogun,Ifo
+732,8a858ec358dc5c130158e86849701295,Nigeria,Lagos,Surulere
+733,8a858e705cb15527015cbfedf6807c3c,Nigeria,Rivers,Obio/Akpor
+734,8a858f415686c0ab0156893370741aa5,Nigeria,Kebbi,Zuru
+735,8a858e245a5c008c015a5c266238148c,Nigeria,Oyo,Ogbomosho North
+736,8a858f1b5b9136f7015b96ba114d0c71,Nigeria,Rivers,Obio/Akpor
+737,8a858ec959f3d0320159f411f586198d,Nigeria,Lagos,Mushin
+738,8a858e6b5d1885ce015d1894c8620d20,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+739,8a858e945bee08de015bf07771ce6245,Nigeria,Ogun,Ifo
+740,8a858e0d5aa8e240015aa8e8c383070d,Nigeria,Lagos,Alimosho
+741,8a858e495bf8527e015bf8a5de842da2,Nigeria,Ogun,Obafemi-Owode
+742,8a858ee0560bc07701561391bb845623,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+743,8a858e0b5cfa2028015d092b47e27e30,Nigeria,Lagos,Alimosho
+744,8a858e5c56f98bad01570d1d648e2761,Nigeria,Ogun,Egbado South
+745,8a858fcc5ab942ce015ac02f026e2d48,Nigeria,Ogun,Obafemi-Owode
+746,8a858e0a5668e69c01567edcd2bc2bf8,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+747,8a858f335c8d9723015c98e602d911e2,Nigeria,Oyo,Ibadan South West
+748,8a858fd35b441894015b4420f53b0fcb,Nigeria,Lagos,Ikorodu
+749,8a8588f7548fb0a301549ced5ac07c9d,Nigeria,Delta,Oshimili North
+750,8a858fe05cac0c84015cac4f5c9a28b2,Nigeria,Ondo,Ondo West
+751,8a858e185b4923b4015b4c4dd82a073b,Nigeria,Lagos,Oshodi-Isolo
+752,8a858fab5cd5e1a7015cdb58471a5314,Nigeria,Ogun,Ifo
+753,8a858fc15b68ba6a015b6cdb644f7cea,Nigeria,Oyo,Akinyele
+754,8a858e245c214660015c2fec6a70058e,Nigeria,Lagos,Alimosho
+755,8a858fd05bfd7d3c015c0239684a5349,Nigeria,Lagos,Eti-Osa
+756,8a858f265cfa1a64015cffd360cf3f7b,Nigeria,Akwa Ibom,Uyo
+757,8a858929535ff7a2015362423ea12578,Nigeria,Lagos,Kosofe
+758,8a858e69566ae5b801566b5ea4f6269f,Nigeria,Delta,Oshimili North
+759,8a858f3159f585d30159f87d1a2877db,Nigeria,Lagos,Kosofe
+760,8a858e655cd0642d015cd13036454516,Nigeria,Lagos,Eti-Osa
+761,8a858e3d5c3b5122015c3fafb49c3399,Nigeria,Lagos,Oshodi-Isolo
+762,8a8589a053acc39e0153aff9bbd7238a,Nigeria,Niger,Suleja
+763,8a858f1955b1c4df0155cd14c5b478ed,Nigeria,Osun,Olorunda
+764,8a858f365b2547f3015b30099a505307,Nigeria,Lagos,Surulere
+765,8a858fd858e2f19a0158f97e191916b7,Nigeria,Lagos,Mushin
+766,8a858f965bc8e421015bcc66b05e5967,Nigeria,Kwara,Ilorin South
+767,8a8589d7548fb3a801549a62a32e3d5a,Nigeria,Lagos,Kosofe
+768,8a858e045cd5b1d6015cdf06e4dc7e71,Nigeria,Kaduna,Zarki
+769,8a858e585693982b0156b6329ee229d6,Nigeria,Kogi,Yagba West
+770,8a858f975c4582c4015c4e2ba05c62b5,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+771,8a858e9b56237632015626314c1a2a42,Nigeria,Lagos,Oshodi-Isolo
+772,8a858970548359cc0154866750a97482,Nigeria,Lagos,Ifako-Ijaye
+773,8a858f8e5c5f46fc015c633244a35e89,Nigeria,Lagos,Eti-Osa
+774,8a8589d754be350e0154bea33f411c02,Nigeria,Oyo,Lagelu
+775,8a858eee58727169015877060b15540c,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+776,8a858e0156b782a10156b81770b82e07,Nigeria,Ondo,Owo
+777,8a858ff35c63d750015c63dbb45e027c,Nigeria,Lagos,Ikorodu
+778,8a858970548359cc0154856f47c73b81,Nigeria,Ogun,Abeokuta South
+779,8a858f3355ae6a610155c583cc8e034d,Nigeria,Osun,Olorunda
+780,8a858eb95591bf0001559220e85e1b16,Nigeria,Benue,Makurdi
+781,8a858e875c63d395015c65308d640c0f,Nigeria,Oyo,Ibadan North West
+782,8a8588dd54be35520154c92031650de4,Nigeria,Kwara,Asa
+783,8a858fc45c21da6f015c3087c36d6234,Nigeria,Ogun,Abeokuta South
+784,8a858f2e5cd09481015cd3d378cd0b38,Nigeria,Ogun,Ijebu Ode
+785,8a858e9b560bbd63015611d6c90f0f5f,Nigeria,Delta,Sapele
+786,8a858e0458d4ac3d0158e7fee4351588,Nigeria,Kaduna,Igabi
+787,8a858e4b5cb1e4d7015cbc7f1e3e7b96,Nigeria,Ogun,Ado-Odo/Ota
+788,8a858f2c59cb2d550159cb54fa96143e,Nigeria,Lagos,Ikeja
+789,8a858eda552adcc201554a43790937ed,Nigeria,Lagos,Surulere
+790,8a858f0f5bfd79d2015c08207d265627,Nigeria,Delta,Patani
+791,8a85892854be331a0154c4bf71841892,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+792,8a858fd45a4260bc015a4613981d314c,Nigeria,Oyo,Ibadan North
+793,8a8589f853efac520153f0ce27f61ee1,Nigeria,Lagos,Eti-Osa
+794,8a858f345ad253d6015ad260db8c0a81,Nigeria,Lagos,Eti-Osa
+795,8a858f295c8d307f015c9cee64412197,Nigeria,Kwara,Ilorin East
+796,8a858ee1578e399501579186cb2d6283,Nigeria,Lagos,Amuwo-Odofin
+797,8a8589a75438621601543ab52054150c,Nigeria,Akwa Ibom,Eket
+798,8a858e215ca77c7f015cab19f5c92961,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+799,8a858fbd5cd6054a015ce82aa3914088,Nigeria,Oyo,Ibadan North
+800,8a858f4b5ccab528015ccbc91ef76750,Nigeria,Ogun,Obafemi-Owode
+801,8a858f7057b918e40157bd8c8a8e6ec1,Nigeria,Ogun,Shagamu
+802,8a858e245b680423015b6b3689d46b4b,Nigeria,Kano,Fagge
+803,8a858fc45c21da6f015c341888b47c64,Nigeria,Oyo,Ibadan North West
+804,8a858ee55cb156e6015cb65fb1926ae0,Nigeria,Osun,Ife North
+805,8a858f255cb1710a015cb4f868d27b0d,Nigeria,Lagos,Apapa
+806,8a858f4c5bb597f6015bb88edfd35179,Nigeria,Lagos,Oshodi-Isolo
+807,8a858f205ccfd9d3015cd04514bd39c1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+808,8a858ea55ac1546c015ac2b3547711f0,Nigeria,Lagos,Ikeja
+809,8a858e2b5853023201585e93b6372b51,Nigeria,Lagos,Ifako-Ijaye
+810,8a858e885b68546c015b7238f22027ba,Unknown Country,Unknown State,Unknown LGA
+811,8a858f565b683b56015b7357f31e7569,Nigeria,Ogun,Abeokuta South
+812,8a85884e548fad6501549a9435d71e85,Nigeria,Oyo,Oluyole
+813,8a858f5f5b39bb0c015b3aa87eb81282,Nigeria,Ogun,Ado-Odo/Ota
+814,8a858f585bfd6341015c005942497b6c,Nigeria,Delta,Warri South West
+815,8a858fcb5bab1fda015bae1de6d35266,Nigeria,Oyo,Egbeda
+816,8a858fc25bafabdc015bafed7f6021fa,Nigeria,Ogun,Abeokuta South
+817,8a858e345bd96da8015be3ddca8f4af8,Nigeria,Lagos,Epe
+818,8a858fc15cd06c32015cd4ba6b1d711b,Nigeria,Ogun,Shagamu
+819,8a858f305c8dd672015c97a940a24715,Nigeria,Lagos,Shomolu
+820,8a858f7e5c69a6e3015c6d953819750c,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+821,8a858e625c8d993a015c9bf9278c32f7,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+822,8a858ffb5d1832fd015d184b6ad80f09,Nigeria,Lagos,Surulere
+823,8a858f415686c0ab015691ea91d45900,Nigeria,Rivers,Ikwerre
+824,8a858f055c831d5b015c87192bf35ab2,Nigeria,Lagos,Agege
+825,8a8588235384a58d01538b5b8d49372c,Nigeria,Rivers,Port-Harcourt
+826,8a858f005b396e23015b3977901b0c51,Nigeria,Akwa Ibom,Uyo
+827,8a858f155554552501555e01e57a0269,Nigeria,Bayelsa,Yenegoa
+828,8a858e0156b782a10156b96d30cb5b73,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+829,8a858f2b5c7df62c015c7e2dc5641eb2,Nigeria,Oyo,Saki West
+830,8a858ef255c55fd60155c738de611535,Nigeria,Lagos,Eti-Osa
+831,8a858e785c8d9167015ca05320ba6830,Nigeria,Rivers,Obio/Akpor
+832,8a858faf5679a83801567f5bc4fc7215,Nigeria,Ogun,Egbado South
+833,8a858f9a564355590156461a0da77401,Nigeria,Lagos,Alimosho
+834,8a858e515bf280aa015bf2ca521e26a3,Nigeria,Lagos,Ifako-Ijaye
+835,8a858e8d56b784480156c16a09706bd5,Nigeria,Lagos,Surulere
+836,8a858f365c83961c015c86ca922b5ddc,Nigeria,Lagos,Eti-Osa
+837,8a858e6458625423015864d7a62e6785,Nigeria,Kano,Nasarawa
+838,8a858f085a477386015a488df8db7111,Nigeria,Osun,Osogbo
+839,8a858f935760a61801577033195a28b1,Nigeria,Lagos,Surulere
+840,8a858f6f5b199197015b199ea5000d84,Nigeria,Bayelsa,Yenegoa
+841,8a858f03582604ff01582a09d5a32c12,United States,New York,Unknown LGA
+842,8a858e005c2154c2015c2cf818481eb3,Benin,Littoral Department,Cotonou
+843,8a858ff554d9de480154ddfe4f3773fb,Nigeria,Kogi,Lokoja
+844,8a858ee55cb156e6015cb63f19146515,Nigeria,Lagos,Kosofe
+845,8a858fe55b013a0b015b0b5996ce4111,Nigeria,Ogun,Shagamu
+846,8a858fc55b2fde30015b30c9256b43fd,Nigeria,Delta,Sapele
+847,8a858f98560bbe1101560db94d740f06,Nigeria,Lagos,Surulere
+848,8a858e0b5d1d8104015d1da5234b0e90,Nigeria,Lagos,Ikeja
+849,8a858faf5679a83801568596dba677cd,Nigeria,Lagos,Ifako-Ijaye
+850,8a858f8b5b630942015b631a8db21732,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+851,8a8588f853b1b2d40153be4cdb8c6810,Nigeria,Kaduna,Kaduna South
+852,8a858f7d5cf9aef9015d0abb2c974494,Nigeria,Federal Capital Territory,Bwari
+853,8a858e3654e2a8240154e72ee7022fb0,Nigeria,Bayelsa,Southern Ijaw
+854,8a858f495bcefdb9015bd2ab3dc72788,Nigeria,Lagos,Eti-Osa
+855,8a858e1d5cd58f9e015ce4d0e49950d5,Nigeria,Lagos,Alimosho
+856,8a858f725ad6f19e015ad72130921e81,Nigeria,Lagos,Kosofe
+857,8a85884e54be33290154c7d802b73042,Nigeria,Lagos,Ojo
+858,8a858e175872e14e015876e1c25212de,Nigeria,Lagos,Ifako-Ijaye
+859,8a858f6b570f2de901572f04bf9744c4,Nigeria,Oyo,Ibadan South West
+860,8a858e3654e2a8240154e9fa08b9171e,Nigeria,Lagos,Shomolu
+861,8a858fff5a36fe68015a3ac5851618ab,Nigeria,Ogun,Abeokuta South
+862,8a858eef555489050155675e193f77f7,Nigeria,Lagos,Lagos Mainland
+863,8a858fa859a7641e0159a9122c3c61b5,Nigeria,Lagos,Oshodi-Isolo
+864,8a858f565b683b56015b6e9302a77dd1,Nigeria,Lagos,Alimosho
+865,8a858ee9587f44aa0158819464010aa4,Nigeria,Rivers,Port-Harcourt
+866,8a858f585cf9d48b015cf9ee030e10ad,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+867,8a858eab5cf9c4c8015d03737a977738,Nigeria,Ogun,Odeda
+868,8a85882653e2eb990153f0f8a8520c4b,Nigeria,Abia,Umuahia North
+869,8a8589b953d0be470153d166c59f388e,Nigeria,Lagos,Apapa
+870,8a858ff554e290e10154f6ff4a302f7e,Nigeria,Lagos,Alimosho
+871,8a858e345a04f20b015a0ee4dd6b1c38,Nigeria,Oyo,Akinyele
+872,8a858f4156939c3c01569eb58e93629a,Nigeria,Oyo,Lagelu
+873,8a858f7d5cf9aef9015d0a60d4053a31,Nigeria,Oyo,Oyo West
+874,8a858f265c2187bd015c21d5f78413fc,Nigeria,Delta,Uvwie
+875,8a858f645a8ea316015a8eeb23a93384,Nigeria,Ogun,Ado-Odo/Ota
+876,8a858e4b5cb1e4d7015cbf51622434f2,Nigeria,Lagos,Ikorodu
+877,8a858f73594ab1ea015964b39b815f52,Nigeria,Ogun,Ifo
+878,8a858e475c127bce015c15e434622bde,Nigeria,Lagos,Kosofe
+879,8a858e705668e16701566f6b45c03059,Nigeria,Adamawa,Yola South
+880,8a858ec55b441639015b444e78b7361f,Nigeria,Lagos,Lagos Island
+881,8a858f9f5bd99987015be27c21221292,Nigeria,Lagos,Agege
+882,8a858f565b683b56015b77d6c4b14751,Nigeria,Ogun,Ijebu Ode
+883,8a8589d8548faed501549fb0909d12b2,Nigeria,Lagos,Badagry
+884,8a858928548fb121015495dafe41016b,Nigeria,Kaduna,Igabi
+885,8a858928548fb121015496238670164a,Nigeria,Lagos,Eti-Osa
+886,8a858f965c6950da015c7b953c93484d,Nigeria,Delta,Udu
+887,8a858fa55acd8061015ad0b778b013ea,Nigeria,Ogun,Ifo
+888,8a858e2e5bb57a37015bc30f34e02cf7,Nigeria,Lagos,Shomolu
+889,8a858eb55b24c7b8015b24d6095c0c46,Nigeria,Ondo,Okitipupa
+890,8a858e0a5668e69c01567af9d4890906,Nigeria,Lagos,Ikorodu
+891,8a858eb35c5f4a42015c627e39b60d6a,Nigeria,Lagos,Ikorodu
+892,8a858e875cfa37f5015d0d0f292e04c9,Nigeria,Lagos,Lagos Island
+893,8a85896653f0fed2015400f8b1973c84,Nigeria,Oyo,Ibadan North West
+894,8a858fa45bd95e9a015bdd6141823e52,Nigeria,Lagos,Eti-Osa
+895,8a8589b953d0be470153e043e57e2d79,Nigeria,Delta,Warri South
+896,8a858fa25cfa127c015cfc1e527253b5,Nigeria,Lagos,Agege
+897,8a858ec65c123dfb015c150e513455db,Nigeria,Ondo,Akure South
+898,8a858e6f5668e01701567005bb5972cf,Nigeria,Ondo,Akure South
+899,8a8588fd53c244bc0153c77b6b9e691b,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+900,8a858f0a56ffda56015709a71f9c02c7,Nigeria,Lagos,Mushin
+901,8a858fa154e2912f0155065fcda06f84,Nigeria,Lagos,Ikeja
+902,8a858f975c4582c4015c5379bebc030a,Nigeria,Lagos,Apapa
+903,8a858f005b396e23015b3995995732bc,Nigeria,Ogun,Ifo
+904,8a858fba5cd5feee015cd9f99f38135a,Nigeria,Lagos,Amuwo-Odofin
+905,8a858f345b1a6144015b1a747f610e68,Nigeria,Lagos,Alimosho
+906,8a858e495bf8527e015bf9ec3e176b75,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+907,8a858e875b910dfe015b9a75f78739f7,Nigeria,Oyo,Ibadan South West
+908,8a858eb65c3b3074015c3f96cf8c3fad,Nigeria,Lagos,Ojo
+909,8a858f2e5c699f3a015c7405e386784e,Nigeria,Delta,Uvwie
+910,8a858fbc5cc666c8015cc67a0d541497,Nigeria,Oyo,Akinyele
+911,8a858e9b5bcf8546015bd34d1f801a05,Nigeria,Lagos,Mushin
+912,8a858ff35acdd593015acddc6c7203de,Nigeria,Zamfara,Bungudu
+913,8a858e785c8d9167015c980c019936fd,Nigeria,Lagos,Ikeja
+914,8a85898a53bc15600153c76825c74b94,Nigeria,Lagos,Oshodi-Isolo
+915,8a858f085b494826015b4cfa0afe0f9e,Nigeria,Rivers,Ogba/Egbema/Ndoni
+916,8a858e0a5668e69c015680dcf84a7f9c,Nigeria,Lagos,Ojo
+917,8a858eb25b5d2e82015b5d60ec623bec,Nigeria,Kogi,Igalamela-Odolu
+918,8a858eb456e0b9490156fc567e5737d9,Nigeria,Lagos,Ikeja
+919,8a858e8e5ca1f1a8015ca24da25735e3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+920,8a858e235bd971a4015be80845bb2119,Nigeria,Lagos,Surulere
+921,8a8588f754a058cb0154b3b507dc1abe,Nigeria,Kwara,Ilorin West
+922,8a858faa56dffac60156f941bfeb434b,Nigeria,Lagos,Alimosho
+923,8a858ec9590ad35d01594951f86d3fd1,Nigeria,Kwara,Offa
+924,8a858fd75bb62bbe015bc8ac68616fb2,Nigeria,Ondo,Owo
+925,8a858e625c8d993a015c922feb223e68,Nigeria,Oyo,Ibadan South West
+926,8a858e475c127bce015c1715ca853ccf,Nigeria,Akwa Ibom,Uyo
+927,8a858e345bd96da8015be325004232e3,Nigeria,Kano,Dambatta
+928,8a858f535908095c01592c4a9576186c,Nigeria,Oyo,Ibadan North West
+929,8a858f0f5bfd79d2015c0c2370d436a1,Nigeria,Oyo,Ona-Ara
+930,8a858fb45bb59c21015bbfe3651f0750,Nigeria,Osun,Ede North
+931,8a858f975c4582c4015c550ee4925686,Nigeria,Lagos,Ikorodu
+932,8a858fa95c695f85015c6beb3279647b,Nigeria,Ondo,Akure South
+933,8a858f265cfa1a64015d082fd3c93380,Nigeria,Ogun,Ado-Odo/Ota
+934,8a858fc9580b91da0158126363fb3f16,Nigeria,Osun,Ede North
+935,8a858ea555d9e6020155efaba6540a82,Nigeria,Akwa Ibom,Eket
+936,8a858fa057e2a0a50157e7650d8903fb,Nigeria,Ogun,Ifo
+937,8a858fc15cd06c32015cd1ed477b4cb7,Nigeria,Plateau,Jos North
+938,8a858f965c6950da015c6ea724353a26,Nigeria,Lagos,Ikorodu
+939,8a858e6c5c88d145015c96155c47559b,Nigeria,Nassarawa,Karu
+940,8a858ff159ad042e0159ad17b9f60a89,Nigeria,Lagos,Lagos Island
+941,8a858f0056b7cf8e0156c21e03304536,Nigeria,Osun,Ilesha East
+942,8a858ed75bb64559015bc2d5fd306eaf,Nigeria,Lagos,Ikorodu
+943,8a858f345c1075d5015c10c9b9572768,Nigeria,Lagos,Ifako-Ijaye
+944,8a858ee65be8d42d015bec21e37e1f59,Nigeria,Abia,Aba North
+945,8a858fbc5cc666c8015ccaa6c8dc2270,Nigeria,Lagos,Alimosho
+946,8a858ec95aa84d3c015aa851aaf302d3,Nigeria,Niger,Suleja
+947,8a858e6d5b252065015b2fdbe1cd542c,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+948,8a858ea55ab92cff015ac0bca23f7dc2,Nigeria,Oyo,Ibadan South West
+949,8a858e905a8fc7af015a903b5fb63073,Nigeria,Oyo,Akinyele
+950,8a858fe45a8360a7015a837d5be20d9b,Nigeria,Lagos,Eti-Osa
+951,8a858f7d5578012a015579e9cfd56f51,Nigeria,Lagos,Eti-Osa
+952,8a858f4f59f4ed130159f50d47b117a0,Nigeria,Lagos,Kosofe
+953,8a858fe45cd62cbf015ce8a5a46a57a7,Nigeria,Ondo,Akure South
+954,8a858f555d0e96d1015d125689135609,Nigeria,Kaduna,Kaduna South
+955,8a85886e54101890015410e5d5c83298,Nigeria,Cross River,Calabar-Municipal
+956,8a858e2e5bb57a37015bbe1b8d6d3830,Nigeria,Delta,Warri South
+957,8a858e8f5d41c974015d464347443fae,Nigeria,Rivers,Obio/Akpor
+958,8a858ea3556609560155775d89496cd5,Nigeria,Lagos,Kosofe
+959,8a858fd45a4260bc015a42ac9e89278d,Nigeria,Edo,Ikpoba-Okha
+960,8a858f965bb63a25015bbb3c90f07658,Nigeria,Oyo,Ona-Ara
+961,8a858eac5c451942015c54fdbff96c8b,Nigeria,Lagos,Ikorodu
+962,8a858f6e5aa3c922015aa3d9cba10a74,Nigeria,Lagos,Eti-Osa
+963,8a858ebc5b48cbd0015b48cd84ac03ba,Nigeria,Lagos,Ikeja
+964,8a858eac59b758220159b7901c69174c,Nigeria,Delta,Udu
+965,8a858fc25baeeeff015baf5022dc3611,Nigeria,Delta,Uvwie
+966,8a858ed35aec4221015aef98c80b776d,Nigeria,Lagos,Ikeja
+967,8a858f4f5511dca201551b73634170b6,Nigeria,Lagos,Ikeja
+968,8a858f5e5cb23c77015cb617d25a6080,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+969,8a858e1d5cd58f9e015cd91cdee408ca,Nigeria,Delta,Oshimili North
+970,8a858f54589736f40158ab60b3e36a52,Nigeria,Delta,Uvwie
+971,8a858f1f5c834d4f015c872619d66fd2,Nigeria,Lagos,Kosofe
+972,8a8588f754a058cb0154b12e44351523,Nigeria,Ogun,Abeokuta South
+973,8a858ed45c454c11015c4e40f6f7640e,Nigeria,Lagos,Ikorodu
+974,8a858966538deb19015391420fe01f59,Nigeria,Lagos,Ikeja
+975,8a858faf5679a838015692f7a8f831d7,Nigeria,Cross River,Calabar-Municipal
+976,8a858edc59e0d8f70159eba2590759b5,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+977,8a858e345bd96da8015bdaa8f56d42c1,Nigeria,Ogun,Ado-Odo/Ota
+978,8a85896653f0fed20154065bbe063ff7,Nigeria,Niger,Chanchaga
+979,8a858eb4588604f70158863ec5720ce8,Nigeria,Oyo,Lagelu
+980,8a858f7c5be8dc45015be8e136700347,Nigeria,Lagos,Ikorodu
+981,8a858e6c5c88d145015c9e2125702448,Nigeria,Lagos,Eti-Osa
+982,8a858f8e5c5f46fc015c6242c82b7c0b,Nigeria,Rivers,Port-Harcourt
+983,8a858f5b5bee1b11015bf192ffb44553,Nigeria,Lagos,Ikorodu
+984,8a858f60560bc43d01560d6ed8b068e6,Nigeria,Ekiti,Ado Ekiti
+985,8a858eac5c451942015c58ac70523824,Nigeria,Anambra,Onitsha South
+986,8a858e245a4f0e47015a5adda94f4429,Nigeria,Lagos,Ifako-Ijaye
+987,8a858f0456511c94015651c1558f35f1,Nigeria,Lagos,Surulere
+988,8a858f54592214a0015922c0bfa71bd8,Nigeria,Ogun,Ijebu Ode
+989,8a858e785c8d9167015c8fed39cf53ae,Nigeria,Lagos,Oshodi-Isolo
+990,8a858f1f586c8fc801586de4f21d0d16,Nigeria,Delta,Isoko North
+991,8a858e955cf51403015cf8be51125400,Nigeria,Lagos,Kosofe
+992,8a858e045cd5b1d6015ce4c1eb434643,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+993,8a858e395cb1d4d9015cc0f4883c172c,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+994,8a858e5555780ea001557e4e09383b96,Nigeria,Lagos,Ikeja
+995,8a858ee755a0c84a0155b7028fea49b6,Nigeria,Lagos,Surulere
+996,8a858ff455a09f5a0155b73fe8244da7,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+997,8a858e4a5cac6f81015cad78a648389f,Nigeria,Lagos,Eti-Osa
+998,8a858f7c5ccaf06d015ccb09b0070f34,Nigeria,Osun,Egbedore
+999,8a858fbc5cc666c8015cc9d4702c2b75,Nigeria,Ogun,Ijebu Ode
+1000,8a858eda5c8863ff015c959eef8a4678,Nigeria,Kwara,Ilorin East
+1001,8a858f5f55f9698c0156076313646281,Nigeria,Lagos,Shomolu
+1002,8a858f9d5668e3f1015679951579076f,Nigeria,Lagos,Shomolu
+1003,8a858fb4563228d20156455071ba60a1,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1004,8a858f2b5bf35819015bf3a8d4072974,Nigeria,Lagos,Alimosho
+1005,8a858f2a5b3f2121015b41d14e202aba,Nigeria,Lagos,Ojo
+1006,8a858e8d56b784480156b8dfa2c27373,Nigeria,Osun,Osogbo
+1007,8a858fc35b347bd4015b348a42791649,Nigeria,Ondo,Akure North
+1008,8a858f965c6950da015c7a34bb072e98,Nigeria,Akwa Ibom,Uyo
+1009,8a858f985bee01cb015bee649b4f3611,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1010,8a858f315bf749da015bf75e46bf0cf8,Nigeria,Lagos,Kosofe
+1011,8a858faf56b7821c0156cdaa248222fd,Nigeria,Lagos,Alimosho
+1012,8a858fa45bd95e9a015bde4d41406ebf,Nigeria,Edo,Esan West
+1013,8a858f235b8bf5bc015b8bfee8ee084c,Nigeria,Lagos,Oshodi-Isolo
+1014,8a858fa154e2912f0154ecfb533d7a5e,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1015,8a858e6a5bfd4b54015c0d136472048e,Nigeria,Lagos,Surulere
+1016,8a858ec95afc0922015afc24b669093f,Nigeria,Edo,Egor
+1017,8a858e495bf8527e015bf937253b50ff,Nigeria,Lagos,Ojo
+1018,8a858e8e5ca1f1a8015ca61b2fca6f31,Nigeria,Ogun,Obafemi-Owode
+1019,8a858fba5cd5feee015cdbba6b9d564b,Nigeria,Lagos,Ikeja
+1020,8a858fe5569398920156b6f29b764ab6,Nigeria,Rivers,Obio/Akpor
+1021,8a858eda5c8863ff015c91c76ef763c5,Nigeria,Lagos,Alimosho
+1022,8a858f0656b7820c0156c64dbb2f05f3,Nigeria,Ondo,Akure South
+1023,8a858fd95c3b5bca015c3bd6c30d2102,Nigeria,Lagos,Eti-Osa
+1024,8a858ef255c55fd60155daa40f514312,Nigeria,Rivers,Obio/Akpor
+1025,8a858f565c3acb9d015c4398b36817a8,Nigeria,Lagos,Amuwo-Odofin
+1026,8a8588dc536a1413015376c0e10065b2,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1027,8a858eb95591bf0001559ad37247195d,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1028,8a858f045556eaa4015558e0c68b60cc,Nigeria,Lagos,Eti-Osa
+1029,8a858e105bd92644015be07c35237d0d,Nigeria,Enugu,Enugu South
+1030,8a858e5c5c361f7d015c3970b6676146,Nigeria,Lagos,Ikeja
+1031,8a858f6f5ba5f9b8015ba6fedda73439,Nigeria,Rivers,Obio/Akpor
+1032,8a858e605ce99f55015ced0a99a63ba4,Nigeria,Benue,Makurdi
+1033,8a858f0056b7cf8e0156c212dddd3f13,Nigeria,Benue,Oturkpo
+1034,8a85892854a059ed0154aa9b70bc638d,Nigeria,Lagos,Ikeja
+1035,8a858e0f5577f57901558109093f578c,Nigeria,Plateau,Jos North
+1036,8a858f3d5add42e2015ae0ca6cb66b83,Nigeria,Oyo,Ibadan South West
+1037,8a858e3c5cac9fcc015cacb7b97a0977,Nigeria,Lagos,Shomolu
+1038,8a8588235375c27f01537f6d1ad53cff,Nigeria,Abia,Umuahia South
+1039,8a858f2e5876d7d0015877c6e0ae5bdc,Nigeria,Lagos,Alimosho
+1040,8a858e6a5c829229015c82ac07c30f58,Nigeria,Lagos,Alimosho
+1041,8a85896653e2e18b0153e56f2a852da4,Nigeria,Lagos,Ikorodu
+1042,8a858e785c8d9167015c96e5c3f5091f,Nigeria,Federal Capital Territory,Bwari
+1043,8a858f0a5bf3716c015bf74698ab0964,Nigeria,Lagos,Ikorodu
+1044,8a85882653e1a3e00153e1f8033b1233,Nigeria,Lagos,Ifako-Ijaye
+1045,8a85893d542e18bc015438b652f841c3,Nigeria,Lagos,Agege
+1046,8a8589ac53a917ed0153aaed86c82d91,Nigeria,Lagos,Kosofe
+1047,8a858e765507208301552107bcd95612,Nigeria,Ogun,Egbado North
+1048,8a858e2c5bd33ac0015bd3680c8b1bad,Nigeria,Lagos,Alimosho
+1049,8a858ec95afc0922015b09a286634c26,Nigeria,Niger,Chanchaga
+1050,8a858faf5679a83801568b26dbf137e0,Nigeria,Oyo,Egbeda
+1051,8a858e6c5c88d145015c9dd6f5d21b4b,Nigeria,Lagos,Mushin
+1052,8a858fea5b8c314d015b8d032aaf7347,Nigeria,Oyo,Ibadan North
+1053,8a858fc35b347bd4015b34c1a0db575f,Nigeria,Lagos,Ifako-Ijaye
+1054,8a858fe55656a93801565764e5ec1430,Nigeria,Ondo,Akure South
+1055,8a858fbd5cd6054a015cd8f040ff5129,Nigeria,Ogun,Ado-Odo/Ota
+1056,8a858ed457e2e6960157f65462117d64,Nigeria,Bayelsa,Southern Ijaw
+1057,8a858f385b34d285015b3852d40b417c,Nigeria,Lagos,Surulere
+1058,8a858eda5c8863ff015ca085bbe55038,Nigeria,Lagos,Eti-Osa
+1059,8a85886e541018900154117960df41f4,Nigeria,Ogun,Ifo
+1060,8a858e865b48f46f015b494c22be4663,Nigeria,Bayelsa,Yenegoa
+1061,8a858f2b5bf35819015bf711567b0f1c,Nigeria,Lagos,Mushin
+1062,8a858eef55548905015574ae2dcb526f,Nigeria,Plateau,Jos North
+1063,8a858fcd56b9f22c0156c5b280650d11,Nigeria,Lagos,Eti-Osa
+1064,8a858e205c21d53a015c2a1bbee92567,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1065,8a858e875cfa37f5015cfcea6f7e3b36,Nigeria,Benue,Gboko
+1066,8a858fcd56b9f22c0156c18d8e2d280f,Nigeria,Enugu,Enugu South
+1067,8a858e875c63d395015c6f115be54028,Nigeria,Edo,Ovia North East
+1068,8a858ea55b58f026015b5c11ad2e2dd2,Nigeria,Oyo,Ibadan South West
+1069,8a858f735b437619015b439524ec306f,Nigeria,Lagos,Mushin
+1070,8a858e7c588604a401589940135a58fd,Nigeria,Imo,Owerri West
+1071,8a858e0a5668e69c0156782807775d39,Nigeria,Lagos,Eti-Osa
+1072,8a858fba5cd5feee015ce43abdad3d9f,Nigeria,Lagos,Eti-Osa
+1073,8a858edc5c7e7da5015c7ea42f010ac2,Nigeria,Ogun,Obafemi-Owode
+1074,8a8589c1545181f3015481a6fb827b40,Nigeria,Lagos,Eti-Osa
+1075,8a858f495a70f465015a76e95fa42c3d,Nigeria,Katsina,Funtua
+1076,8a858f1f5c834d4f015c84b2654f537b,Nigeria,Lagos,Ojo
+1077,8a858e645591c24b0155a059b3f27431,Nigeria,Enugu,Enugu North
+1078,8a858e605ce99f55015cea610eab6542,Nigeria,Ekiti,Ado Ekiti
+1079,8a858fbf5b3a0b46015b3af60d0e64b1,Nigeria,Oyo,Iseyin
+1080,8a858f265c2187bd015c3402a9e52573,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1081,8a858fef570f30e501572ab53a6f4acb,Nigeria,Lagos,Ikorodu
+1082,8a858e175b343fe2015b344c1e5b0f48,Nigeria,Lagos,Ikorodu
+1083,8a858e5b5bd99460015be71e03dc77ed,Nigeria,Lagos,Amuwo-Odofin
+1084,8a858f465668e3d601567dc3f5970090,Nigeria,Ogun,Ifo
+1085,8a858f3e5885ffa301588ccdf1b437ef,Nigeria,Lagos,Alimosho
+1086,8a858f2c585375f00158678b108144f8,Nigeria,Osun,Odo-Otin
+1087,8a858f005cc5df15015cc5eb75d00970,Nigeria,Lagos,Ikeja
+1088,8a858f375b493337015b522f73813498,Nigeria,Oyo,Lagelu
+1089,8a858f005b396e23015b397ce2dc1159,Nigeria,Edo,Oredo
+1090,8a858f045556eaa401556dd7346663fc,Nigeria,Lagos,Eti-Osa
+1091,8a858e6c5c88d145015ca0b1c8b17bd8,Nigeria,Lagos,Alimosho
+1092,8a858fd05bfd7d3c015c0cc8a1a86a92,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1093,8a858e36590808e3015917a6dae57137,Nigeria,Lagos,Oshodi-Isolo
+1094,8a858e9d5bfd7037015c02983b964527,Nigeria,Oyo,Ibadan South West
+1095,8a858f78550ba1040155110cdacd015f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1096,8a858f8f5bfd3cfa015c0cec47c055f1,Nigeria,Ogun,Abeokuta South
+1097,8a858fab5cd5e1a7015cdc164d57632a,Nigeria,Delta,Warri South
+1098,8a8588ae53f1cb7c0153ffc5afb330b0,Nigeria,Delta,Uvwie
+1099,8a858e36590808e30159431352ef5f7d,Nigeria,Oyo,Ido
+1100,8a858ed55bafadc7015bafae85d5004d,Nigeria,Abia,Umuahia North
+1101,8a858fc15b68ba6a015b7765e93d54fa,Nigeria,Lagos,Kosofe
+1102,8a858ff25c88461c015c88c3646d40ea,Nigeria,Lagos,Eti-Osa
+1103,8a858e495bf8527e015bfc8aea892236,Nigeria,Lagos,Agege
+1104,8a858ee05a6b7d75015a6eda09eb0502,Nigeria,Anambra,Idemili North
+1105,8a858f7d5a5bd94e015a5fbe42b84f0a,Nigeria,Kogi,Lokoja
+1106,8a858e9156e137c601570b2f414c4258,Nigeria,Kogi,Adavi
+1107,8a858f2b5c11cabe015c126b987e58b7,Nigeria,Lagos,Ikeja
+1108,8a858fde56eb02280156f97f777e7683,Nigeria,Lagos,Mushin
+1109,8a858ff8582fcb8601583e9ee74e1732,Nigeria,Lagos,Alimosho
+1110,8a858f3d5add42e2015ae1afc0810894,Nigeria,Rivers,Obio/Akpor
+1111,8a858fc95ce99dd6015ced741b3773dd,Nigeria,Lagos,Lagos Mainland
+1112,8a858e9b5a61655b015a61e631833c3e,Nigeria,Lagos,Ojo
+1113,8a858eb95591bf00015598cf72920b31,Nigeria,Kwara,Ilorin East
+1114,8a8588f5542eb0d4015436389126718b,Nigeria,Kwara,Ilorin South
+1115,8a858e69566ae5b8015690272e3553fa,Nigeria,Oyo,Akinyele
+1116,8a858fc35b347bd4015b34bbb0e15271,Nigeria,Akwa Ibom,Uyo
+1117,8a858f155cee6b2a015cee768c910880,Nigeria,Lagos,Ajeromi-Ifelodun
+1118,8a858fbd5cd6054a015ce63fd2ae1580,Nigeria,Oyo,Ibadan South West
+1119,8a858e1a5bd8a6ae015bd8fee0f624a8,Nigeria,Kaduna,Chikun
+1120,8a858ee0560bc07701560e3c10544572,Nigeria,Lagos,Amuwo-Odofin
+1121,8a858fed5a28bf0e015a2a1969814dc1,Nigeria,Lagos,Ikeja
+1122,8a858f5d5d56884c015d5a21e575563a,Nigeria,Lagos,Oshodi-Isolo
+1123,8a858eed5756fb0e01575e24e900478d,Nigeria,Enugu,Enugu East
+1124,8a858f715d18a4cd015d18bdc15a0f9b,Nigeria,Kwara,Ilorin South
+1125,8a858e1158dc4d830158fabcf67068d0,Nigeria,Lagos,Shomolu
+1126,8a858f0056b7cf8e0156b85b93c039aa,Nigeria,Kaduna,Kaduna North
+1127,8a858fb95a951d1a015a99d458d711c8,Nigeria,Ogun,Obafemi-Owode
+1128,8a85886f54517ee0015458b911ab289c,Nigeria,Lagos,Ifako-Ijaye
+1129,8a858eba5c884d2a015c8d36d3fd0056,Nigeria,Kano,Kumbotso
+1130,8a858fd75cac5e18015cb07b3ed40e81,Nigeria,Lagos,Ikeja
+1131,8a858f085b494826015b49a5957a252e,Nigeria,Lagos,Ikeja
+1132,8a858f585cf9d48b015d07dbb8c03999,Nigeria,Lagos,Surulere
+1133,8a858f375b493337015b52c1cd713ff0,Nigeria,Lagos,Eti-Osa
+1134,8a858e8d56b784480156c74508a36a02,Nigeria,Ogun,Obafemi-Owode
+1135,8a858f0c5cc68025015cc6e912161dc0,Nigeria,Oyo,Lagelu
+1136,8a858f995c5fa060015c5faa880403a0,Nigeria,Lagos,Surulere
+1137,8a858ff05b1ac77f015b1b0ea58735c2,Nigeria,Rivers,Obio/Akpor
+1138,8a858e395cb1d4d9015cbd121e2a20c7,Nigeria,Ogun,Abeokuta South
+1139,8a85893d53f104eb015410ce1d262cdd,Nigeria,Rivers,Obio/Akpor
+1140,8a858e585693982b015699e7c57e03e2,Nigeria,Lagos,Ikeja
+1141,8a858f255cb1710a015cc086cdf573fc,Nigeria,Oyo,Lagelu
+1142,8a858e885b68546c015b757f4a705633,Nigeria,Rivers,Ikwerre
+1143,8a858f2d5aeb9c48015aebefa3c75288,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1144,8a858fb15b34a708015b361f8b9921bd,Nigeria,Lagos,Shomolu
+1145,8a858ea15c884829015c8c27adb903b4,Nigeria,Lagos,Ikeja
+1146,8a8589f35451855401546bca9c952edb,Nigeria,Oyo,Ibadan North West
+1147,8a858e205c21d53a015c237cb6fd1fe7,Nigeria,Lagos,Kosofe
+1148,8a858fda56562f8f01566548972d1c9c,Nigeria,Oyo,Ibadan North
+1149,8a858ee45a22cbec015a23e5a4020a26,Nigeria,Rivers,Obio/Akpor
+1150,8a858f6c570f2d6601572a4acffc221f,Nigeria,Lagos,Alimosho
+1151,8a858f0b5c595029015c598f160d2495,Nigeria,Kwara,Ilorin East
+1152,8a858e4b5cb1e4d7015cc1690bb93c0a,Nigeria,Lagos,Shomolu
+1153,8a858f475afb66cd015afb7fd2d11ba5,Nigeria,Edo,Oredo
+1154,8a858f7c5be8dc45015bea117aa57efe,Nigeria,Lagos,Eti-Osa
+1155,8a858fcb5ca240f7015ca5ca808f4285,Nigeria,Lagos,Lagos Island
+1156,8a858e775c362114015c36a682ab27ad,Nigeria,Oyo,Ibadan South West
+1157,8a858ea45b35639b015b356cbf34033a,Nigeria,Niger,Chanchaga
+1158,8a858fa4552add9f01555355c66043ac,Nigeria,Lagos,Mushin
+1159,8a858eba5c884d2a015c89bb147c054e,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1160,8a858e0d58625b410158641fcfec1b72,Nigeria,Lagos,Amuwo-Odofin
+1161,8a858e8d56adbdae0156b30248fe3104,Nigeria,Oyo,Akinyele
+1162,8a858e345bd96da8015be708cfda2c74,Nigeria,Ogun,Ifo
+1163,8a858ed55c63db54015c68298dce5e26,Nigeria,Kwara,Ilorin East
+1164,8a858f4d59f551120159f86e27d740bd,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1165,8a858f555cc65d60015cc72de106320c,Nigeria,Lagos,Mushin
+1166,8a858f5e5cb23c77015cb25bd0a3073c,Nigeria,Oyo,Ibarapa Central
+1167,8a858e3d570f30bb01571db9f99b0254,Nigeria,Lagos,Alimosho
+1168,8a858ff05b1ac77f015b1ac8027f0073,Nigeria,Ogun,Odeda
+1169,8a858edb552adcfd015548d747e725f7,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1170,8a858ff45be92ea2015be9cb6e5b3a89,Nigeria,Federal Capital Territory,Gwagwalada
+1171,8a858ee05a6b7d75015a6c9816c25449,Nigeria,Lagos,Ajeromi-Ifelodun
+1172,8a858ea55ab92cff015abd32e1105b48,Nigeria,Lagos,Ikorodu
+1173,8a8588fd53f1099e01540eeac7633d4c,Nigeria,Ogun,Ado-Odo/Ota
+1174,8a858966538deb1901539f5e7eb051a1,Nigeria,Lagos,Shomolu
+1175,8a858f1955b1c4df0155c61396ff0212,Nigeria,Ogun,Abeokuta South
+1176,8a858f60560bc43d01562157abc56a88,Nigeria,Ogun,Ifo
+1177,8a8588f35451808f0154682042b8389b,Nigeria,Lagos,Surulere
+1178,8a858fa5552add5d0155536bd49343f9,Nigeria,Kano,Tofa
+1179,8a858f315ccb979d015ccf98ddd4661f,Nigeria,Lagos,Eti-Osa
+1180,8a858eea5a28c38d015a2e1c849c2e82,Nigeria,Lagos,Eti-Osa
+1181,8a858fee5863a04901586977ceb769d2,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1182,8a85883353e2e4e40153f068a4634e02,Nigeria,Lagos,Ikeja
+1183,8a8589b953bc23f70153c90114817143,Nigeria,Lagos,Amuwo-Odofin
+1184,8a858fe756939bbb0156b42e72185f25,Nigeria,Kano,Fagge
+1185,8a85881a5420ebf101543716beee1039,Nigeria,Rivers,Obio/Akpor
+1186,8a858e7b55deef140155e500afb54cc6,Nigeria,Nassarawa,Keffi
+1187,8a858feb5bfcf5e3015bfd3379fc27e0,Nigeria,Ogun,Odeda
+1188,8a858ee55cb156e6015cc4b89a14412a,Nigeria,Katsina,Katsina
+1189,8a858f5659bc0eea0159c6f4b9ab6a80,Nigeria,Delta,Oshimili North
+1190,8a858e3654e2a82401550addb6133675,Nigeria,Lagos,Ajeromi-Ifelodun
+1191,8a858f375b493337015b56fbe1c0738e,Nigeria,Lagos,Oshodi-Isolo
+1192,8a858e085ca0b5e8015ca0baedb30280,Nigeria,Lagos,Apapa
+1193,8a858e5f5d0e9ac2015d114f3fb57058,Nigeria,Lagos,Ifako-Ijaye
+1194,8a858f7d5be8748c015be8cf8e2641dc,Nigeria,Ogun,Ewekoro
+1195,8a858f7e564ad33801565a5614763e6a,Nigeria,Lagos,Eti-Osa
+1196,8a858faa56dffac60156eed794613f9e,Nigeria,Oyo,Akinyele
+1197,8a858ebb5adce699015adea5d5ae51b3,Nigeria,Kwara,Ilorin South
+1198,8a858efd5ca70688015caa9a7fda3370,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1199,8a858e7a56e509290156e53d504f1069,Nigeria,Akwa Ibom,Eket
+1200,8a858faf56b7821c0156c15de860731e,Nigeria,Ogun,Ifo
+1201,8a858e585693982b01569cc35e894aed,Nigeria,Rivers,Eleme
+1202,8a858eea5a232d51015a249796171e39,Nigeria,Rivers,Ogba/Egbema/Ndoni
+1203,8a858ef45be99ccb015bec00e8ff5383,Nigeria,Ogun,Ado-Odo/Ota
+1204,8a858f045bc9690c015bca51755455a1,Nigeria,Ogun,Obafemi-Owode
+1205,8a858e3654e2a8240155118fdd72053b,Nigeria,Bayelsa,Southern Ijaw
+1206,8a858eda5c8863ff015ca0c606e96219,Nigeria,Oyo,Egbeda
+1207,8a858fd75bc96a6f015bcab7caf06c3f,Nigeria,Ogun,Ado-Odo/Ota
+1208,8a8589ec54517bf90154682378410694,Nigeria,Oyo,Ibadan South West
+1209,8a858f2656e154de0156eba07ec86e98,Nigeria,Taraba,Jalingo
+1210,8a858e135c78e673015c7c818dbd2262,Nigeria,Oyo,Ibadan South West
+1211,8a858edf5c69a538015c6a1a35b11a71,Nigeria,Abia,Osisioma Ngwa
+1212,8a858e355908083001593c3acd320f4b,Nigeria,Oyo,Saki West
+1213,8a858fe5569398920156b644671b0f2a,Nigeria,Lagos,Eti-Osa
+1214,8a858fef570f30e5015720679ff55c37,Nigeria,Ogun,Ikenne
+1215,8a858e59569397d50156944b474d2bb8,Nigeria,Delta,Isoko North
+1216,8a858f99560bbe45015613ae87981a6d,Nigeria,Ogun,Shagamu
+1217,8a858f075cee6786015ceeb680a533f4,Nigeria,Kwara,Ilorin South
+1218,8a858ec95afc0922015b0edc17e34984,Nigeria,Ogun,Abeokuta South
+1219,8a858ffd5c8d343d015c8f02ce3004ad,Nigeria,Lagos,Lagos Mainland
+1220,8a858e165b90faf9015b94c5e95e727f,Nigeria,Kano,Kano Municipal
+1221,8a858ec655f96b320156047265df266d,Nigeria,Lagos,Eti-Osa
+1222,8a858f2e5876d7d0015877a5e1385176,Nigeria,Lagos,Eti-Osa
+1223,8a858f0b5b5ddd79015b6151e45702f7,Nigeria,Lagos,Kosofe
+1224,8a858fc45c5f93be015c63842ca27543,Nigeria,Nassarawa,Karu
+1225,8a858f0656b7820c0156c92ca3ba436f,Nigeria,Delta,Ughelli North
+1226,8a85882653bc51f50153c7a562dc099d,Nigeria,Lagos,Kosofe
+1227,8a858e1a59cbf7460159d0335d9a6a03,Nigeria,Lagos,Oshodi-Isolo
+1228,8a858e69566ae5b801568fe0bb8a4fd0,Nigeria,Lagos,Eti-Osa
+1229,8a858eb75c21a2b9015c24d4d3203a06,Nigeria,Lagos,Alimosho
+1230,8a858ebb5aeb0312015aeb2fc1582084,Nigeria,Lagos,Ajeromi-Ifelodun
+1231,8a858ee55c830000015c84c6a8681828,Nigeria,Lagos,Lagos Mainland
+1232,8a858ffd5caca417015cb006d7aa3382,Nigeria,Plateau,Jos North
+1233,8a858efe5a408737015a411807b52fef,Nigeria,Lagos,Lagos Island
+1234,8a858f995a4762a5015a490254ba0a2e,Nigeria,Lagos,Agege
+1235,8a858fd85b685607015b75cbf15c73c2,Nigeria,Oyo,Ibadan North
+1236,8a858f465668e3d6015673c90e483f44,Nigeria,Kano,Nasarawa
+1237,8a399f284741b63b0147496a04db1eb4,Nigeria,Lagos,Ifako-Ijaye
+1238,8a858e285c7c7fc9015c7c8c1e040865,Nigeria,Delta,Warri South
+1239,8a858e725cf420fd015cf437db121438,Nigeria,Lagos,Alimosho
+1240,8a858fb7597cf3dd01598419ae0e2c7b,Nigeria,Lagos,Oshodi-Isolo
+1241,8a858e6a5bfd4b54015c05a75bed32ac,Nigeria,Lagos,Shomolu
+1242,8a858f7e5c213ef4015c2a8b9fe20181,Nigeria,Ondo,Ile-Oluji-Okeigbo
+1243,8a858e69566ae5b80156711deca24df3,Nigeria,Lagos,Amuwo-Odofin
+1244,8a858e335d1dd902015d243228db3b9b,Nigeria,Ekiti,Ado Ekiti
+1245,8a8588ae53f1cb7c015418f319b81ecb,Nigeria,Ogun,Ijebu Ode
+1246,8a858e6c5c88d145015c8cf7a5e17156,Nigeria,Lagos,Ikeja
+1247,8a8588dc5384a05f01539a4fbd8e1f5d,Nigeria,Lagos,Lagos Mainland
+1248,8a858ee25b34d796015b380aa54b5f73,Nigeria,Anambra,Anaocha
+1249,8a858ff554e290e10155065b5ba54cce,Nigeria,Lagos,Ikeja
+1250,8a858e9e5b1f064e015b1f1aae1f11d1,Nigeria,Lagos,Surulere
+1251,8a858fa154e2912f0154e2f6b3da1e13,Nigeria,Lagos,Kosofe
+1252,8a858f2e5c699f3a015c6e10b65607c9,Unknown Country,Unknown State,Unknown LGA
+1253,8a85892854a059ed0154aa182dd84489,Nigeria,Lagos,Kosofe
+1254,8a858fa5552add5d01554b51ef567295,Nigeria,Lagos,Ikeja
+1255,8a858f8e5b8c34d3015b8f25ea8f03b9,Nigeria,Lagos,Kosofe
+1256,8a858f385b34d285015b34e6dbbb1309,Nigeria,Lagos,Eti-Osa
+1257,8a858f3e589c40610158aeb00ff65aaf,Nigeria,Lagos,Ikeja
+1258,8a858eba5591bf28015596e245a341ea,Nigeria,Plateau,Jos North
+1259,8a858e735c5a4bed015c5d0ab47242fb,Nigeria,Lagos,Ikorodu
+1260,8a858f9f5bd99987015bdc921fb36531,Nigeria,Rivers,Port-Harcourt
+1261,8a85892e5425ad2001543095054f5b28,Nigeria,Kaduna,Kaduna South
+1262,8a858f605b911d60015b9a7f64f15e1f,Nigeria,Rivers,Bonny
+1263,8a858f1955b1c4df0155cdbeafe97a3e,Nigeria,Lagos,Ojo
+1264,8a858e44573d4b3701574dcc81ef0120,Nigeria,Akwa Ibom,Ikot Ekpene
+1265,8a858ee055ffbe1701560850839a7c49,Nigeria,Edo,Ikpoba-Okha
+1266,8a858f7c5ad29e0f015ad2ac49010f4d,Nigeria,Ogun,Shagamu
+1267,8a858f2a5b3f2121015b4287c0d84865,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1268,8a858f045bab240c015baf9e44646d76,Nigeria,Edo,Oredo
+1269,8a858ec555f96a9a0155fdc921c70107,Nigeria,Lagos,Apapa
+1270,8a858f275591bf5d0155968869002f72,Nigeria,Federal Capital Territory,Gwagwalada
+1271,8a858f535d325481015d3593ac7e0cb3,Nigeria,Ogun,Ifo
+1272,8a858f6e5cb16eb9015cb7fd2766646d,Nigeria,Lagos,Eti-Osa
+1273,8a858f6d5bfcd8a2015bfcf70b4213bc,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1274,8a858eba5c884d2a015c959cafd52be5,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1275,8a858f255ca276c5015ca313a0062913,Nigeria,Lagos,Ojo
+1276,8a858f1f5c59cd91015c5e0901a105f1,Nigeria,Rivers,Port-Harcourt
+1277,8a858f765c350480015c35105f3f04c1,Nigeria,Lagos,Eti-Osa
+1278,8a858ebd5b254c8b015b2fd8dafc7cee,Nigeria,Lagos,Oshodi-Isolo
+1279,8a8589da5410287f01541ff402633c01,Nigeria,Lagos,Ifako-Ijaye
+1280,8a858f255cb1710a015cb624f45a277e,Nigeria,Lagos,Ikeja
+1281,8a858e955add2971015ae0db3b3a00cf,Nigeria,Lagos,Alimosho
+1282,8a8588b2548362e60154854feb462ab1,Nigeria,Niger,Chanchaga
+1283,8a858f535908095c015911ce6c8a76bb,Nigeria,Cross River,Odukpani
+1284,8a858faa56dffac60156e557ec6e77b6,Nigeria,Osun,Osogbo
+1285,8a858f2e5c699f3a015c6e10b65607c9,Unknown Country,Unknown State,Unknown LGA
+1286,8a858e625c8d993a015c944701ea0746,Nigeria,Oyo,Akinyele
+1287,8a858e4f5b809b52015b80ed27b4244f,Nigeria,Lagos,Ifako-Ijaye
+1288,8a858ece5862630201586bddffed6e88,Nigeria,Plateau,Jos North
+1289,8a858eef55548905015572d00b966315,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1290,8a858fbd5cd6054a015cdf37c6fb7a22,Nigeria,Ogun,Obafemi-Owode
+1291,8a85898a53bc15600153c7933fdc686b,Nigeria,Lagos,Eti-Osa
+1292,8a858faf5679a838015679dda1481bfb,Nigeria,Ogun,Shagamu
+1293,8a858f305cb1ec4e015cc075bf43795e,Nigeria,Osun,Ilesha West
+1294,8a858ec55ca7919d015cab70e8954f34,Nigeria,Lagos,Ajeromi-Ifelodun
+1295,8a858e625af61555015af661e8003508,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1296,8a858fa25bd92c20015bdec1e1616d76,Nigeria,Lagos,Alimosho
+1297,8a858e245c214660015c22c54eda4ee0,Nigeria,Lagos,Ikorodu
+1298,8a858e6c5c88d145015c8c304fd31930,Nigeria,Lagos,Ikeja
+1299,8a858f3355ae6a610155c4dcf6ab573c,Nigeria,Lagos,Apapa
+1300,8a8589b953bc23f70153cb94556a2f7c,Nigeria,Lagos,Ikeja
+1301,8a858f495bcefdb9015bd231d00778ab,Nigeria,Lagos,Alimosho
+1302,8a858f585cf9d48b015cff6828b66435,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1303,8a858f3d5d18c7d7015d1991deb638b7,Nigeria,Oyo,Ibadan South West
+1304,8a858f30551130db0155158c6aea0483,Nigeria,Edo,Ikpoba-Okha
+1305,8a858f5c5ad7d927015adb8b97f96be0,Nigeria,Rivers,Etche
+1306,8a858fa5552add5d0155356128d8668a,Nigeria,Benue,Makurdi
+1307,8a858e6f5668e01701567d90922848d5,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1308,8a858fad5ccb633e015ccb8973e511bc,Nigeria,Kwara,Ilorin East
+1309,8a858edc59ee87640159eeb9774f1aa7,Nigeria,Ogun,Abeokuta South
+1310,8a858f2d5853901a01585dcf769f26de,Nigeria,Ogun,Ifo
+1311,8a858e225a28c713015a2cfb72ce119e,Nigeria,Ogun,Odogbolu
+1312,8a858e995ccb5414015ccc4147cb4bc8,Nigeria,Ogun,Shagamu
+1313,8a858fbc594a495c01596db4320c084a,Nigeria,Kaduna,Kaduna North
+1314,8a858f2f54e28d5301550bb0765d5ee7,Nigeria,Lagos,Oshodi-Isolo
+1315,8a858faf5679a8380156867a81ca016f,Nigeria,Lagos,Oshodi-Isolo
+1316,8a858f505c7e3a50015c7f8583ce536b,Nigeria,Lagos,Ikeja
+1317,8a858f305c8dd672015c91230d566c0e,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1318,8a858e6a5bfd4b54015c0065e2c6050f,Nigeria,Lagos,Alimosho
+1319,8a858f595d1387e8015d149bd8e57256,Nigeria,Lagos,Eti-Osa
+1320,8a858e775c362114015c3ac335ce7f57,Nigeria,Lagos,Ikeja
+1321,8a858fee5aaeb536015ab028da65651f,Nigeria,Lagos,Ikorodu
+1322,8a8589a453bc422d0153c78133226c26,Nigeria,Lagos,Ifako-Ijaye
+1323,8a858f0456511c9401565c13d32936fb,Nigeria,Lagos,Lagos Mainland
+1324,8a858f3959f562330159f9002c242c83,Nigeria,Lagos,Surulere
+1325,8a85880353acff880153b3c9f0d641b0,Nigeria,Ogun,Ado-Odo/Ota
+1326,8a858e0a5b192e2e015b1948fba112cf,Nigeria,Ogun,Egbado South
+1327,8a858899538ddb8e01539042374a1e26,Nigeria,Kwara,Ilorin East
+1328,8a858fc25bafabdc015bb016ef44386e,Nigeria,Lagos,Eti-Osa
+1329,8a858e375bcf8394015bd371116d6fba,Nigeria,Lagos,Alimosho
+1330,8a858fd55c45ba15015c45dcf07c102a,Nigeria,Lagos,Ajeromi-Ifelodun
+1331,8a858ef358d4a48e0158e97fe129792e,Nigeria,Lagos,Alimosho
+1332,8a858ebd5b254c8b015b2ebaaf2652a7,Nigeria,Oyo,Ido
+1333,8a858e235bd971a4015be16b9d155631,Nigeria,Lagos,Alimosho
+1334,8a858f54592214a0015926bce60f2108,Nigeria,Lagos,Ikorodu
+1335,8a858e105c1c09c8015c1d4a28156d9a,Nigeria,Ogun,Odogbolu
+1336,8a858e675a3bef15015a3c0f2e700eb7,Nigeria,Ogun,Shagamu
+1337,8a8588f35438fe1201544910ded312f7,Nigeria,Lagos,Eti-Osa
+1338,8a858e3c5853733801585dadb1334a2e,Nigeria,Kwara,Ilorin East
+1339,8a858ebd590802ef0159083a61e90bbb,Nigeria,Federal Capital Territory,Bwari
+1340,8a858ece5b0142e3015b05df0b13096f,Nigeria,Lagos,Ikorodu
+1341,8a858fa05c111612015c117471cb30c1,Nigeria,Oyo,Akinyele
+1342,8a858f9d5668e3f101566fb7494822f9,Nigeria,Lagos,Ikeja
+1343,8a858ef25c8393f8015c83fa6fe71cbc,Nigeria,Ogun,Ijebu East
+1344,8a858f7e5c69a6e3015c77988b05021a,Nigeria,Lagos,Ikorodu
+1345,8a858f1f5c59cd91015c5b12c9e4715c,Nigeria,Ogun,Abeokuta South
+1346,8a858f8d56e0c3a70157041167c02cf1,Nigeria,Lagos,Apapa
+1347,8a858e105c1c09c8015c1cc872e155e5,Nigeria,Lagos,Mushin
+1348,8a858f3355ae6a610155c1daebe61b76,Nigeria,Lagos,Amuwo-Odofin
+1349,8a858f5a57519e4801576b2bd3284e9c,Nigeria,Ondo,Akure North
+1350,8a858e035693e02901569c2e205d58ac,Nigeria,Anambra,Idemili North
+1351,8a858f975c4582c4015c468f7f4f4e9a,Nigeria,Lagos,Alimosho
+1352,8a858efe5bca0a81015bcafa92f72787,Nigeria,Ogun,Ifo
+1353,8a858eae5c356262015c3575c5b40c22,Nigeria,Lagos,Kosofe
+1354,8a858f1c5ca1e2f9015ca1f18d750635,Nigeria,Edo,Esan North East
+1355,8a858966538deb190153a778edfb61aa,Nigeria,Lagos,Eti-Osa
+1356,8a858fc55b672960015b672de67d0409,Nigeria,Lagos,Lagos Mainland
+1357,8a8588ae53f1cb7c0153fefa47f32810,Nigeria,Lagos,Ifako-Ijaye
+1358,8a858ece5d1e42c3015d2932d79e6781,Nigeria,Oyo,Ibadan South West
+1359,8a858ee25ca1a0f9015ca1c488821488,Nigeria,Lagos,Eti-Osa
+1360,8a858e6f5668e01701568dc4c95e13d0,Nigeria,Kaduna,Chikun
+1361,8a858f275a8e994e015a8ebcf96914e1,Nigeria,Lagos,Ikeja
+1362,8a858f3d5add42e2015ae1446fbf7d56,Nigeria,Lagos,Ikeja
+1363,8a858f505cf46e04015cf46f85330131,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1364,8a858f475c7ea023015c7ed381550c5c,Nigeria,Oyo,Ibarapa East
+1365,8a858fab5cd5e1a7015cdf590c9d1f59,Nigeria,Lagos,Lagos Island
+1366,8a8588f754a058cb0154bb6c773d1bbb,Nigeria,Ogun,Ado-Odo/Ota
+1367,8a858f8f5c87d0c8015c8835a5153de6,Nigeria,Ogun,Shagamu
+1368,8a858fd35b5dfefb015b5e3c893626a2,Nigeria,Ogun,Ifo
+1369,8a858ff15a8fa5b0015a9324780b35fd,Nigeria,Kwara,Ilorin East
+1370,8a858e935b496584015b4dea69253842,Nigeria,Lagos,Eti-Osa
+1371,8a858fb95a951d1a015a9627728034e1,Nigeria,Lagos,Alimosho
+1372,8a858fa459eecb2a0159eecbae2d0051,Nigeria,Oyo,Ibarapa East
+1373,8a858ec358dc5c130158ea2c46c124be,Nigeria,Lagos,Ikeja
+1374,8a858e5b5d37b45d015d3bc259e55449,Nigeria,Lagos,Alimosho
+1375,8a858f255cb1710a015cc3e7f142101c,Nigeria,Abia,Umuahia North
+1376,8a858fcf5b39c3ba015b3ce36bad10a2,Nigeria,Ogun,Abeokuta South
+1377,8a858e6c5c88d145015c97ee34d02391,Nigeria,Lagos,Ikeja
+1378,8a858fc15b68ba6a015b6b094b622d76,Nigeria,Lagos,Ibeju/Lekki
+1379,8a858fa459e0a1340159ec74c24a744b,Nigeria,Oyo,Lagelu
+1380,8a858f2c59caaf2c0159cb0d4b953714,Nigeria,Lagos,Eti-Osa
+1381,8a858eda5c8863ff015c88f52dcb33fd,Nigeria,Ogun,Abeokuta North
+1382,8a858fa3586d20e0015871142a6046af,Nigeria,Lagos,Kosofe
+1383,8a858edc5c7e7da5015c8166e88960b4,Nigeria,Lagos,Ibeju/Lekki
+1384,8a858e36590808e3015947b0870e6c89,Nigeria,Ogun,Ijebu Ode
+1385,8a858f8f5bfd3cfa015c0b4d7b61102c,Nigeria,Plateau,Jos South
+1386,8a858e0f5c45466f015c541a01a868a1,Nigeria,Lagos,Ikeja
+1387,8a858ef255c55fd60155c8f865611d5e,Nigeria,Rivers,Obio/Akpor
+1388,8a858f7b5763d88001576be2678d67c6,Nigeria,Ogun,Ado-Odo/Ota
+1389,8a858e35589c0ac00158a5b90844229d,Nigeria,Bauchi,Bauchi
+1390,8a858e6d58b0cc520158b4bcc7f61ef2,Nigeria,Lagos,Mushin
+1391,8a858ff259d1429e0159d1a4117e23bd,Nigeria,Lagos,Alimosho
+1392,8a858f9f5679951a015692c661784bb8,Nigeria,Lagos,Eti-Osa
+1393,8a858fc55b2548dd015b28d40a9876fe,Nigeria,Lagos,Ikeja
+1394,8a858fa55d37a570015d38332887360d,Nigeria,Ondo,Akure South
+1395,8a858fd05bf22b18015bf25758ea1c9e,Nigeria,Delta,Uvwie
+1396,8a858f305c8dd672015c9665d0c0122b,Nigeria,Lagos,Alimosho
+1397,8a858feb58c565cf0158d11c49895721,Nigeria,Edo,Egor
+1398,8a858e185b57cc76015b57ee502c112c,Nigeria,Lagos,Ifako-Ijaye
+1399,8a858e105bd92644015bdb6b69395d10,Nigeria,Lagos,Alimosho
+1400,8a858f295c8d307f015c9615b6da3771,Nigeria,Lagos,Eti-Osa
+1401,8a858f505cf46e04015cf760b94b7ef5,Nigeria,Lagos,Eti-Osa
+1402,8a858fb15b34a708015b34e097fa30af,Nigeria,Lagos,Ifako-Ijaye
+1403,8a858f9e5a6b4fad015a6b925e3c29fd,Nigeria,Lagos,Alimosho
+1404,8a858e0458d4ac3d0158dd57e64e736c,Nigeria,Oyo,Akinyele
+1405,8a858f9c5be882ce015be8911fac0b0f,Nigeria,Lagos,Ibeju/Lekki
+1406,8a858e8e58f6d66f0158fd7ee9af731f,Nigeria,Ondo,Akure South
+1407,8a858ee45b39aa80015b3b3933c2121e,Nigeria,Oyo,Ido
+1408,8a858fa1581f869601582023dd373106,Nigeria,Ogun,Ifo
+1409,8a858fd05bfd7d3c015bfe43473d3c9d,Nigeria,Oyo,Ibadan North West
+1410,8a858ffa5adb9abd015adbe07c2c2e52,Nigeria,Lagos,Kosofe
+1411,8a858ee755a0c84a0155a77bd775235f,Nigeria,Cross River,Akpabuyo
+1412,8a858f375b493337015b4a7a04286bac,Nigeria,Lagos,Surulere
+1413,8a858f155b38a417015b38be6a8826ce,Nigeria,Osun,Olorunda
+1414,8a858f565b683b56015b7ad54ddc7f78,Nigeria,Rivers,Obio/Akpor
+1415,8a858f5f55f9698c0156028d5ba328e7,Nigeria,Lagos,Ikeja
+1416,8a858e005941690001596c6cde945968,Nigeria,Osun,Ife Central
+1417,8a858ee055ffbe17015607e67cec57e9,Nigeria,Lagos,Ikorodu
+1418,8a858f3455a0d8070155c5fee7cc0a6d,Nigeria,Rivers,Obio/Akpor
+1419,8a858f24584470a0015850703b290278,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1420,8a858ed55c63db54015c6f9d253b5be9,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1421,8a858f975c4582c4015c4ec6fafe741d,Nigeria,Kaduna,Chikun
+1422,8a858f465668e3d601566dfe49be619d,Nigeria,Lagos,Lagos Island
+1423,8a858f3d5bfc954e015bfcaf90e1114b,Nigeria,Lagos,Shomolu
+1424,8a858f165bf7b5ca015bf7b8e30e0199,Nigeria,Lagos,Amuwo-Odofin
+1425,8a858f8a5b146b08015b14807b6c1308,Nigeria,Ogun,Ado-Odo/Ota
+1426,8a858f9f5679951a01567bdd5d0776da,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1427,8a858eb554d4ccaf0154de19c1281f9d,Nigeria,Lagos,Ikorodu
+1428,8a858e5d5c7e25b4015c8196828519c6,Nigeria,Benue,Makurdi
+1429,8a858f195a374aff015a374cdbbb01a4,Nigeria,Lagos,Ajeromi-Ifelodun
+1430,8a858fb85c3b2e0c015c3f2187793fea,Nigeria,Lagos,Ikeja
+1431,8a8589595384a8530153a32a2e9f584d,Nigeria,Rivers,Obio/Akpor
+1432,8a858ffd5c8d343d015c97e4929d0f31,Nigeria,Oyo,Ibadan North
+1433,8a858e675a3bef15015a3c06da560bdd,Nigeria,Ogun,Ifo
+1434,8a858fd3552c7562015544a1c5f8311e,Nigeria,Delta,Warri South
+1435,8a858fee5863a04901586c7547896071,Nigeria,Lagos,Alimosho
+1436,8a858f4156939c3c015693a5a85504cb,Nigeria,Lagos,Surulere
+1437,8a858ecc57b9184b0157c4ffc1b80614,Nigeria,Lagos,Alimosho
+1438,8a858e345bd96da8015be4fad6386f24,Nigeria,Lagos,Alimosho
+1439,8a858ee55c830000015c867880563fc3,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1440,8a858eec5ca21dcb015ca463b66a6f36,Nigeria,Lagos,Alimosho
+1441,8a858e775b10631f015b1099fea22372,Nigeria,Plateau,Jos North
+1442,8a858f675c1c43bc015c1f5eb8737aad,Nigeria,Niger,Chanchaga
+1443,8a858f925d3c3cad015d3c4541e2059f,Nigeria,Lagos,Alimosho
+1444,8a858f2e5b81c373015b856bc8fe7b24,Nigeria,Ogun,Odeda
+1445,8a858ff85bd93919015be207811e0c52,Nigeria,Lagos,Eti-Osa
+1446,8a858ebc5b43210a015b4326f173080e,Nigeria,Oyo,Ido
+1447,8a858e245c214660015c307d07003faf,Nigeria,Lagos,Eti-Osa
+1448,8a858e625c8d993a015ca08967f80999,Nigeria,Rivers,Port-Harcourt
+1449,8a858ef85cf9e152015cfa4236fd2670,Nigeria,Imo,Aboh-Mbaise
+1450,8a858f9158aff6a30158b4c1f2b60833,Nigeria,Lagos,Ojo
+1451,8a858f3b59eed4f10159ef24ce33295f,Nigeria,Lagos,Surulere
+1452,8a858ea45b35639b015b3712616e2d5f,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1453,8a858faf5679a838015685e32ce57cb0,Nigeria,Oyo,Lagelu
+1454,8a858e69566ae5b801566c40bb294259,Nigeria,Osun,Ife North
+1455,8a858e6656322b0f015643271cc23836,Nigeria,Oyo,Egbeda
+1456,8a858e195b90e512015ba0eb4eed5ef5,Nigeria,Kwara,Ilorin East
+1457,8a858e8c5d37e319015d3bac80e24f51,Nigeria,Ebonyi,Afikpo North
+1458,8a858e725c3ae262015c3b08d771135e,Nigeria,Delta,Uvwie
+1459,8a858e5b5bd99460015be170e2465d99,Nigeria,Oyo,Akinyele
+1460,8a858f2b5b870cfe015b870e2543007e,Nigeria,Oyo,Lagelu
+1461,8a858eab5cf9c4c8015d094a5d9036d5,Nigeria,Oyo,Ido
+1462,8a858e445cd56553015ce0837e8536e7,Nigeria,Lagos,Alimosho
+1463,8a858e655a047d1a015a0e7907c55531,Nigeria,Lagos,Amuwo-Odofin
+1464,8a858900536a043401537f6cf1b222b7,Nigeria,Lagos,Eti-Osa
+1465,8a858e675c3fe0a1015c44ba8a037fee,Nigeria,Ekiti,Ado Ekiti
+1466,8a858e6f5668e01701568f255f051ac4,United States,New York,Unknown LGA
+1467,8a858fda5c1bd1f7015c1be7f7450f37,Nigeria,Unknown State,Unknown LGA
+1468,8a8589f35451855401546b0738c42524,Nigeria,Lagos,Agege
+1469,8a8589a7545186b1015468c4ca294b60,Nigeria,Federal Capital Territory,Abuja Municipal Area Council (AMAC)
+1470,8a858f0c5ca18b3d015ca194f4a60867,Nigeria,Lagos,Ikeja
+1471,8a858e575bf80f73015bfbc59df93401,Nigeria,Akwa Ibom,Abak
+1472,8a858e675b00c831015b06776ce75e69,Nigeria,Oyo,Ibadan South West
+1473,8a858ee55830c4b90158337542ab18a1,Nigeria,Lagos,Oshodi-Isolo
+1474,8a85881053bc33670153c79e8e84571a,Nigeria,Oyo,Ido
+1475,8a858f8b57a6f4c20157adda48ff6235,Nigeria,Imo,Owerri-Municipal
+1476,8a858f0f5bfd79d2015c0331ce3378fe,Nigeria,Oyo,Lagelu
+1477,8a85895054be35160154c4ecf44a240c,Nigeria,Ogun,Ado-Odo/Ota
+1478,8a858f3b5c1c5a08015c1d0f431230ad,Nigeria,Delta,Okpe
+1479,8a858f0c5cef4be2015cf091fdad6659,Nigeria,Oyo,Lagelu
+1480,8a858e0256b781d80156b8f2d33c4f27,Nigeria,Rivers,Obio/Akpor
+1481,8a858fd05bfd7d3c015c01cafeeb3cc1,Nigeria,Lagos,Eti-Osa
+1482,8a858fc25bafabdc015bb47fda0323e5,Nigeria,Lagos,Eti-Osa
+1483,8a858e245c214660015c3397e4db389a,Nigeria,Kwara,Oyun
+1484,8a858e8b5bc9e7e6015bcd7374077f0c,Nigeria,Lagos,Eti-Osa
+1485,8a858f2e5c699f3a015c77aa22ed7f23,Nigeria,Ogun,Abeokuta South
+1486,8a858fde580afd48015818eda53830c8,Nigeria,Lagos,Kosofe
